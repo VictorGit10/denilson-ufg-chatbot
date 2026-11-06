@@ -1,7 +1,7 @@
 # Briefing: parte 3 da página do encontro com Denilson
 
 ## Quem lê e em que situação
-Denilson Silva, servidor da UFG/LAPIG. Ele quer saber o que seria necessário para levar o protótipo a um piloto real na UFG, quais são os riscos e o que fica pronto. Não é especialista em infraestrutura nem em LGPD. Vai ler a página durante um encontro individual de 40 minutos, no LAPIG, em 06/11/2026, às 14h.
+Denilson Silva, da UFG/LAPIG. Ele quer saber o que seria necessário para levar o protótipo a um piloto real na UFG, quais são os riscos e o que fica pronto. Não é especialista em infraestrutura nem em LGPD. Vai ler a página durante um encontro individual de 40 minutos, no LAPIG, em 06/11/2026, às 14h.
 Voz: Victor ("eu montei", "eu testei"); com Denilson ("você"). Tom direto, sem venda, sem prometer produção.
 
 ## Formato

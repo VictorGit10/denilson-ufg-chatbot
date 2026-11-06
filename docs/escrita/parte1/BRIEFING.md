@@ -1,7 +1,7 @@
 # Briefing: parte 1 da página do encontro com Denilson
 
 ## Quem lê e em que situação
-Denilson Silva, servidor da UFG/LAPIG. Ele responde a um volume grande de demandas e dúvidas do público interno e externo. Sabe que a informação está espalhada em portais, portarias, editais e documentos textuais. Não é especialista em recuperação de informação nem em LLMs. Vai ler a página durante um encontro individual de 40 minutos, no LAPIG, em 06/11/2026, às 14h. A página é apoio; ele vai rolar e comentar.
+Denilson Silva, da UFG/LAPIG. Ele responde a um volume grande de demandas e dúvidas do público interno e externo. Sabe que a informação está espalhada em portais, portarias, editais e documentos textuais. Não é especialista em recuperação de informação nem em LLMs. Vai ler a página durante um encontro individual de 40 minutos, no LAPIG, em 06/11/2026, às 14h. A página é apoio; ele vai rolar e comentar.
 Voz: quem fala é o Victor ("eu testei", "eu montei"); com quem fala é "você" (Denilson). Tom direto, sem venda, sem promessa de produção.
 
 ## Formato

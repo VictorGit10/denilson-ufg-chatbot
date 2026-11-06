@@ -1,7 +1,7 @@
 # Briefing: parte 2 da página do encontro com Denilson
 
 ## Quem lê e em que situação
-Denilson Silva, servidor da UFG/LAPIG. Ele quer entender como o protótipo funciona e o que ele já prova. Não é especialista em recuperação de informação nem em LLMs. Vai ler a página durante um encontro individual de 40 minutos, no LAPIG, em 06/11/2026, às 14h. A seção da demonstração é interativa; o texto deve preparar o que ele vai ver e testar.
+Denilson Silva, da UFG/LAPIG. Ele quer entender como o protótipo funciona e o que ele já prova. Não é especialista em recuperação de informação nem em LLMs. Vai ler a página durante um encontro individual de 40 minutos, no LAPIG, em 06/11/2026, às 14h. A seção da demonstração é interativa; o texto deve preparar o que ele vai ver e testar.
 Voz: Victor ("eu montei", "eu testei"); com Denilson ("você"). Tom direto, sem venda.
 
 ## Formato
