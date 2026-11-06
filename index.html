@@ -185,8 +185,8 @@
 <section id="demo">
   <div class="kicker">5 · A demonstração</div>
   <h2>A demonstração: você pode ver os exemplos salvos sem chave ou testar ao vivo com a sua.</h2>
-  <p class="lead">A página tem dois modos: “Exemplos gravados” e “Ao vivo com sua chave”. Nos exemplos gravados, as respostas já foram geradas pelo modelo e ficam salvas. Elas funcionam sem internet e sem chave.</p>
-  <p>No modo ao vivo, você cola a chave da Ollama Cloud, escolhe o modelo e faz a pergunta. A chave fica só no seu navegador. Se marcar “lembrar nesta aba”, o valor vai para o sessionStorage, não para o localStorage. A consulta usa um proxy Cloudflare Worker para contornar a falta de CORS da Ollama, e esse proxy também não guarda a chave.</p>
+  <p class="lead">A página tem dois modos: “Exemplos gravados” e “Ao vivo com sua chave”. Nos exemplos gravados, as respostas já foram geradas pelo modelo e ficam salvas. Elas funcionam sem chave e sem chamar o modelo.</p>
+  <p>No modo ao vivo, você cola a chave da Ollama Cloud, escolhe o modelo e faz a pergunta. A chave fica só no seu navegador. Se marcar “lembrar nesta aba”, ela fica guardada apenas enquanto esta aba estiver aberta; não vai para o armazenamento permanente do navegador. A consulta usa um proxy Cloudflare Worker para contornar a falta de CORS da Ollama, e esse proxy também não guarda a chave.</p>
   <div class="demo-shell">
     <aside class="demo-side">
       <div class="demo-tabs" role="tablist" aria-label="Modo da demonstração">
@@ -196,6 +196,7 @@
       <div id="painel-exemplos">
         <p class="mini-label">Clique numa pergunta</p>
         <div class="examples" id="lista-exemplos"></div>
+        <p class="note" style="margin:8px 0 0">A ordem 01–05 é um roteiro: resposta com duas fontes, número, versão, lista longa e “não encontrei”.</p>
         <p class="note" id="nota-exemplos">Respostas geradas em 05/11/2026 com deepseek-v4.1-flash e salvas na página.</p>
       </div>
       <div id="painel-vivo" hidden>
@@ -217,7 +218,7 @@
         <div class="status-live" id="status-live" role="status"></div>
         <p class="aviso" id="aviso-proxy" hidden></p>
       </div>
-      <p class="note" style="margin-top:12px">A busca roda no seu navegador. No modo ao vivo, só a pergunta e os trechos recuperados vão para o modelo.</p>
+      <p class="note" style="margin-top:12px">A busca roda no seu navegador. No modo ao vivo, só a pergunta, os trechos recuperados e a sua chave saem do navegador — para o proxy e para a Ollama.</p>
     </aside>
     <div class="demo-main">
       <div class="demo-empty" id="demo-vazio">

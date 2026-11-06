@@ -52,7 +52,7 @@ O modelo dos exemplos gravados é o **deepseek-v4.1-flash** (Ollama Cloud), em 0
 
 A página tem dois modos:
 
-- **Exemplos gravados** — 5 respostas geradas pelo modelo e salvas. Funcionam sem chave e sem internet.
+- **Exemplos gravados** — 5 respostas geradas pelo modelo e salvas. Funcionam sem chave e sem chamar o modelo.
 - **Ao vivo com sua chave** — você cola a sua chave da Ollama Cloud, escolhe o modelo e faz a pergunta. A chave fica só no seu navegador; se marcar “lembrar nesta aba”, vai para o `sessionStorage`, não para o `localStorage`.
 
 ### Por que existe um proxy
