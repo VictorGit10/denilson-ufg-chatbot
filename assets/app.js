@@ -441,11 +441,12 @@ async function perguntarVivo(pergunta) {
         carregando: false,
       };
     } else {
+      const marcadoFalso = json.encontrado === false || String(json.encontrado).toLowerCase() === "false";
       estado.vivo = {
         ...estado.vivo,
         resposta: String(json.resposta || "").trim(),
         citacoes: dedupeCitacoes(json.citacoes),
-        encontrado: json.encontrado !== false,
+        encontrado: !marcadoFalso,
         observacao: String(json.observacao || "").trim(),
         carregando: false,
       };

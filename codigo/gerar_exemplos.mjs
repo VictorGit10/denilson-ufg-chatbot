@@ -72,6 +72,7 @@ async function perguntar(pergunta) {
   const citacoes = (Array.isArray(json.citacoes) ? json.citacoes : [])
     .map((c) => (typeof c === "number" ? { id: c, frase: "" } : c))
     .filter((c) => Number.isInteger(c.id) && c.id >= 1 && c.id <= recuperados.length);
+  const marcadoFalso = json.encontrado === false || String(json.encontrado).toLowerCase() === "false";
   return {
     pergunta,
     modelo: MODELO,
@@ -80,7 +81,7 @@ async function perguntar(pergunta) {
     contexto,
     resposta: String(json.resposta || "").trim(),
     citacoes,
-    encontrado: json.encontrado !== false,
+    encontrado: !marcadoFalso,
     observacao: String(json.observacao || "").trim(),
     citacoes_invalidas: (Array.isArray(json.citacoes) ? json.citacoes : []).length - citacoes.length,
   };

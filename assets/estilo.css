@@ -154,6 +154,8 @@ mark{background:#f3e2a0;color:inherit;padding:0 2px;border-radius:2px}
   color:var(--blue);display:block;margin-bottom:3px}
 .resposta-card{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--accent);
   border-radius:14px;padding:18px 20px;min-height:120px}
+.resposta-card.nao-encontrado{border-left-color:var(--warn)}
+.resposta-card.nao-encontrado .rotulo{color:var(--warn)}
 .resposta-card .rotulo{font-size:11px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;
   color:var(--accent);margin-bottom:8px}
 .resposta{font-size:15.5px;line-height:1.6}
@@ -164,6 +166,8 @@ mark{background:#f3e2a0;color:inherit;padding:0 2px;border-radius:2px}
   border-radius:6px;background:var(--cite-soft);color:var(--cite);border:1px solid #e7c9a8;
   font:inherit;font-size:11px;font-weight:800;cursor:pointer;vertical-align:1px}
 .cite:hover{background:#f0d3b3}
+.cite-invalid{display:inline-block;padding:0 3px;border-radius:4px;background:#f3d6d6;color:#a12a2a;
+  font-size:11px;font-weight:800;text-decoration:line-through;vertical-align:1px}
 .resposta .alerta{background:var(--warn-soft);border-left:3px solid var(--warn);border-radius:8px;
   padding:8px 10px;font-size:13.5px;color:var(--ink);margin-top:10px}
 .conferencia{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
