@@ -114,7 +114,7 @@ function urlPdf(doc, pagina) {
   return `documentos/${encodeURIComponent(doc.arquivo)}#page=${pagina}`;
 }
 
-function fonteHTML(t, i, citados, docsPorId) {
+function fonteHTML(t, i, citados, docsPorId, frases = new Map()) {
   const d = docsPorId.get(t.doc) || {};
   const titulo = d.titulo || t.doc;
   const local = [t.artigo, t.secao].filter(Boolean).join(" · ");
@@ -124,11 +124,13 @@ function fonteHTML(t, i, citados, docsPorId) {
   const longo = (t.texto || "").length > 260;
   const texto = escapar(t.texto || "");
   const citacao = [titulo, t.artigo, `p. ${t.pagina}`].filter(Boolean).join(" · ");
+  const frase = String(frases.get(i) || "").trim();
   return `<article class="fonte" id="fonte-${i}">
     <div class="fnum">${i}</div>
     <div>
       <div class="ftitulo">${escapar(titulo)} ${tagStatus(d)}</div>
       <div class="fmeta">${escapar(local || "Trecho")} · p. ${t.pagina}${d.data ? ` · ${escapar(d.data)}` : ""}</div>
+      ${frase ? `<div class="frase-citada"><span>Trecho citado pelo modelo</span>“${escapar(frase)}”</div>` : ""}
       <div class="ftrecho${longo ? " longo" : ""}">${texto}</div>
       ${d.observacao ? `<p class="note">${escapar(d.observacao)}</p>` : ""}
       <div class="acoes">
@@ -156,6 +158,7 @@ function renderResultado(r) {
   const idsValidos = new Set(recuperados.map((_, i) => i + 1));
   const citacoes = dedupeCitacoes(r.citacoes);
   const citados = new Set(citacoes.map((c) => c.id).filter((id) => idsValidos.has(id)));
+  const frases = new Map(citacoes.map((c) => [c.id, c.frase]));
   const invalidas = citacoes.filter((c) => !idsValidos.has(c.id)).length;
   const encontrado = r.encontrado !== false;
 
@@ -203,7 +206,7 @@ function renderResultado(r) {
   $("#demo-conferencia").innerHTML = chips.join("");
 
   $("#demo-fontes").innerHTML = `<h3>Fontes recuperadas, na ordem em que o modelo as viu</h3>` +
-    recuperados.map((t, i) => fonteHTML(t, i + 1, citados, estado.docsPorId)).join("");
+    recuperados.map((t, i) => fonteHTML(t, i + 1, citados, estado.docsPorId, frases)).join("");
 
   const contexto = r.contexto || (recuperados.length ? montarContexto(recuperados, estado.documentos) : "");
   $("#demo-contexto").textContent = contexto || "Sem contexto.";
