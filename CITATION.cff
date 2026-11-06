@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Se reutilizar este trabalho, cite como abaixo."
+title: "Do documento à resposta com fonte"
+abstract: >-
+  Protótipo de assistente que consulta documentos públicos da UFG, responde com
+  o artigo e a página e admite quando não encontra. Corpus de 8 documentos, 332
+  páginas e 1.159 trechos; busca lexical BM25; citações validadas; demonstração
+  com exemplos gravados e modo ao vivo com a chave do usuário.
+authors:
+  - family-names: "Amaral"
+    given-names: "Victor"
+    affiliation: "LAPIG/UFG"
+date-released: 2026-11-06
+url: "https://victorgit10.github.io/denilson-ufg-chatbot/"
+repository-code: "https://github.com/VictorGit10/denilson-ufg-chatbot"
+license: CC-BY-4.0
+keywords:
+  - "UFG"
+  - "chatbot"
+  - "recuperação de informação"
+  - "citação"
+  - "documentos institucionais"
+  - "IA generativa"

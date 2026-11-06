@@ -1,0 +1,159 @@
+{
+  "gerado_em": "2026-11-06",
+  "modelo": "BM25 + sinônimos + ajustes de tipo de pergunta",
+  "resumo": {
+    "n": 16,
+    "top1": 93.8,
+    "top3": 100,
+    "top5": 100,
+    "top8": 100,
+    "docTop3": 100,
+    "mrr": 0.97
+  },
+  "perguntas": [
+    {
+      "id": "q01",
+      "pergunta": "Quais são as competências do CONSUNI?",
+      "esperado": "estatuto Art. 21 p.11,12",
+      "rank": 1,
+      "docRank": 1,
+      "topo": "estatuto Art. 21 p.12",
+      "topoTexto": "(Redação dada pela Resolução CONSUNI-CEPEC-CC/UFG Nº 01, de 2021). IX- aprovar a proposta orçamentária da Universidade, "
+    },
+    {
+      "id": "q02",
+      "pergunta": "Quem preside o Conselho de Integração Universidade-Sociedade?",
+      "esperado": "estatuto Art. 19 p.11",
+      "rank": 1,
+      "docRank": 1,
+      "topo": "estatuto Art. 19 p.11",
+      "topoTexto": "Art. 19. O Conselho de Integração Universidade-Sociedade será presidido pelo Reitor e será convocado com as seguintes fi"
+    },
+    {
+      "id": "q03",
+      "pergunta": "Qual a nota mínima para aprovação em uma disciplina de graduação?",
+      "esperado": "rgcg Art. 79 p.23",
+      "rank": 1,
+      "docRank": 1,
+      "topo": "rgcg Art. 79 p.23",
+      "topoTexto": "Art. 79. A nota final do estudante variará de zero vírgula zero (0,0) a dez vírgula zero (10,0), com uma casa decimal.  "
+    },
+    {
+      "id": "q04",
+      "pergunta": "Qual a frequência mínima exigida nas disciplinas presenciais de graduação?",
+      "esperado": "rgcg Art. 83 p.25",
+      "rank": 1,
+      "docRank": 1,
+      "topo": "rgcg Art. 83 p.25",
+      "topoTexto": "Art. 83. Será obrigatória ao estudante a frequência mínima de setenta e cinco por cento (75%) da carga horária de cada d"
+    },
+    {
+      "id": "q05",
+      "pergunta": "Quantos semestres o aluno pode trancar a matrícula?",
+      "esperado": "rgcg Art. 71 p.21",
+      "rank": 1,
+      "docRank": 1,
+      "topo": "rgcg Art. 71 p.21",
+      "topoTexto": "Art. 71. O trancamento de matrícula não poderá ocorrer por mais de quatro (4) semestres letivos consecutivos ou alternad"
+    },
+    {
+      "id": "q06",
+      "pergunta": "O estágio não obrigatório pode ser aproveitado como estágio obrigatório?",
+      "esperado": "rgcg Art. 27 p.10",
+      "rank": 2,
+      "docRank": 2,
+      "topo": "faq_estagio  p.9",
+      "topoTexto": "6 Quem é a figura do Supervisor/Preceptor da parte concedente? Conforme a Lei n.11.788/2008, o estágio, como ato educati"
+    },
+    {
+      "id": "q07",
+      "pergunta": "Quais documentos são necessários para formalizar o estágio?",
+      "esperado": "faq_estagio p.6",
+      "rank": 1,
+      "docRank": 1,
+      "topo": "faq_estagio  p.7",
+      "topoTexto": "Não obrigatório: desde que o estudante atenda à política de estágio descrita no PPC do seu curso e exista uma instituiçã"
+    },
+    {
+      "id": "q08",
+      "pergunta": "Quais são as atribuições do professor orientador de estágio?",
+      "esperado": "faq_estagio p.8",
+      "rank": 1,
+      "docRank": 1,
+      "topo": "faq_estagio  p.8",
+      "topoTexto": "V - promover o debate e a troca de experiências no próprio curso e nos locais de estágio; VI - manter documentos atualiz"
+    },
+    {
+      "id": "q09",
+      "pergunta": "Qual a carga horária semanal da monitoria?",
+      "esperado": "edital_monitoria p.3",
+      "rank": 1,
+      "docRank": 1,
+      "topo": "edital_monitoria  p.3",
+      "topoTexto": "9 DAS OBRIGAÇÕES DO MONITOR 9.1 São atribuições do(a) monitor(a): a) Desenvolver as atividades previstas no Plano de Tra"
+    },
+    {
+      "id": "q10",
+      "pergunta": "Qual o valor da bolsa de monitoria?",
+      "esperado": "edital_monitoria p.3",
+      "rank": 1,
+      "docRank": 1,
+      "topo": "edital_monitoria  p.3",
+      "topoTexto": "8 DAS BOLSAS 8.1 A bolsa de monitoria será concedida ao(à) estudante selecionado(a) na ordem de classificação e observad"
+    },
+    {
+      "id": "q11",
+      "pergunta": "Qual o prazo para submissão dos projetos de ensino no Edital 258/2026?",
+      "esperado": "edital_monitoria p.4",
+      "rank": 1,
+      "docRank": 1,
+      "topo": "edital_monitoria  p.4",
+      "topoTexto": "Datas Atividades Local Responsáveis 27/04/2026 Publicação do https://prograd.ufg.br/p/monitoria PROGRAD Edital 27/04/202"
+    },
+    {
+      "id": "q12",
+      "pergunta": "O que mudou na retificação do Edital 258/2026?",
+      "esperado": "edital_monitoria_retificacao p.1,2",
+      "rank": 1,
+      "docRank": 1,
+      "topo": "edital_monitoria_retificacao  p.1",
+      "topoTexto": "EDITAL  RETIFICAÇÃO DO EDITAL PROGRAD Nº. 258 DE 27 DE ABRIL DE 2026  A Pró-Reitoria de Graduação (PROGRAD), torna públi"
+    },
+    {
+      "id": "q13",
+      "pergunta": "Quais são os objetivos estratégicos da UFG no PDI 2023-2027?",
+      "esperado": "pdi p.117,118,119,120",
+      "rank": 1,
+      "docRank": 1,
+      "topo": "pdi  p.120",
+      "topoTexto": "interinstitucional ● Objetivo Estratégico (OE) 23 Consolidar a interiorização ● Objetivo Estratégico (OE) 24 Expandir a "
+    },
+    {
+      "id": "q14",
+      "pergunta": "O que o PDI diz sobre acessibilidade nas práticas de educação?",
+      "esperado": "pdi p.67",
+      "rank": 1,
+      "docRank": 1,
+      "topo": "pdi  p.67",
+      "topoTexto": "A concepção do direito à cidadania para todos torna-se urgente e imprescindível na educação superior. A inclusão e a per"
+    },
+    {
+      "id": "q15",
+      "pergunta": "Quem pode se credenciar como docente permanente na pós-graduação?",
+      "esperado": "pos Art. 25 p.10",
+      "rank": 1,
+      "docRank": 1,
+      "topo": "pos Art. 25 p.10",
+      "topoTexto": "Art. 25. Docentes e pesquisadores(as) doutores(as) da UFG e de outras instituições do Brasil e do exterior, além de mest"
+    },
+    {
+      "id": "q16",
+      "pergunta": "Qual o prazo máximo de prorrogação para conclusão do mestrado?",
+      "esperado": "pos Art. 49 p.18",
+      "rank": 1,
+      "docRank": 1,
+      "topo": "pos Art. 49 p.18",
+      "topoTexto": "Art. 49. O(A) discente poderá solicitar prorrogação de prazo, em caráter excepcional e de acordo com o Regulamento Espec"
+    }
+  ]
+}

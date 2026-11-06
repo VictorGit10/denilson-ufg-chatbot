@@ -1,0 +1,164 @@
+[
+  {
+    "id": "q01",
+    "pergunta": "Quais são as competências do CONSUNI?",
+    "tipo": "factual",
+    "doc": "estatuto",
+    "artigo": "Art. 21",
+    "paginas": [11, 12],
+    "resposta_curta": "O CONSUNI é o órgão máximo normativo, deliberativo e de planejamento; o Art. 21 lista suas atribuições."
+  },
+  {
+    "id": "q02",
+    "pergunta": "Quem preside o Conselho de Integração Universidade-Sociedade?",
+    "tipo": "factual",
+    "doc": "estatuto",
+    "artigo": "Art. 19",
+    "paginas": [11],
+    "resposta_curta": "O Reitor preside o Conselho de Integração Universidade-Sociedade."
+  },
+  {
+    "id": "q03",
+    "pergunta": "Qual a nota mínima para aprovação em uma disciplina de graduação?",
+    "tipo": "factual",
+    "doc": "rgcg",
+    "artigo": "Art. 79",
+    "paginas": [23],
+    "resposta_curta": "Nota final igual ou superior a 6,0 e frequência de 75%."
+  },
+  {
+    "id": "q04",
+    "pergunta": "Qual a frequência mínima exigida nas disciplinas presenciais de graduação?",
+    "tipo": "factual",
+    "doc": "rgcg",
+    "artigo": "Art. 83",
+    "paginas": [25],
+    "resposta_curta": "75% da carga horária, exceto estágio curricular obrigatório, que exige 100%."
+  },
+  {
+    "id": "q05",
+    "pergunta": "Quantos semestres o aluno pode trancar a matrícula?",
+    "tipo": "factual",
+    "doc": "rgcg",
+    "artigo": "Art. 71",
+    "paginas": [21],
+    "resposta_curta": "No máximo quatro semestres letivos, consecutivos ou alternados."
+  },
+  {
+    "id": "q06",
+    "pergunta": "O estágio não obrigatório pode ser aproveitado como estágio obrigatório?",
+    "tipo": "cross-doc",
+    "doc": "rgcg",
+    "artigo": "Art. 27",
+    "paginas": [10],
+    "resposta_curta": "Não. O Art. 27 do RGCG veda o aproveitamento; o FAQ repete a regra."
+  },
+  {
+    "id": "q07",
+    "pergunta": "Quais documentos são necessários para formalizar o estágio?",
+    "tipo": "factual",
+    "doc": "faq_estagio",
+    "artigo": "",
+    "paginas": [6],
+    "resposta_curta": "Convênio vigente, comprovante de matrícula, termo de compromisso e plano de estágio, com seguro."
+  },
+  {
+    "id": "q08",
+    "pergunta": "Quais são as atribuições do professor orientador de estágio?",
+    "tipo": "factual",
+    "doc": "faq_estagio",
+    "artigo": "",
+    "paginas": [8],
+    "resposta_curta": "Auxiliar na escolha do local, planejar, acompanhar, orientar e avaliar o estágio."
+  },
+  {
+    "id": "q09",
+    "pergunta": "Qual a carga horária semanal da monitoria?",
+    "tipo": "factual",
+    "doc": "edital_monitoria",
+    "artigo": "",
+    "paginas": [3],
+    "resposta_curta": "12 horas semanais."
+  },
+  {
+    "id": "q10",
+    "pergunta": "Qual o valor da bolsa de monitoria?",
+    "tipo": "factual",
+    "doc": "edital_monitoria",
+    "artigo": "",
+    "paginas": [3],
+    "resposta_curta": "R$ 700,00 mensais."
+  },
+  {
+    "id": "q11",
+    "pergunta": "Qual o prazo para submissão dos projetos de ensino no Edital 258/2026?",
+    "tipo": "factual",
+    "doc": "edital_monitoria",
+    "artigo": "",
+    "paginas": [4],
+    "resposta_curta": "De 27/04/2026 a 28/05/2026, pelo SEI e pelo formulário."
+  },
+  {
+    "id": "q12",
+    "pergunta": "O que mudou na retificação do Edital 258/2026?",
+    "tipo": "versao",
+    "doc": "edital_monitoria_retificacao",
+    "artigo": "",
+    "paginas": [1, 2],
+    "resposta_curta": "Mudaram os pesos dos critérios de avaliação dos projetos de ensino."
+  },
+  {
+    "id": "q13",
+    "pergunta": "Quais são os objetivos estratégicos da UFG no PDI 2023-2027?",
+    "tipo": "sintese",
+    "doc": "pdi",
+    "artigo": "",
+    "paginas": [117, 118, 119, 120],
+    "resposta_curta": "Lista de objetivos estratégicos organizada em quatro perspectivas."
+  },
+  {
+    "id": "q14",
+    "pergunta": "O que o PDI diz sobre acessibilidade nas práticas de educação?",
+    "tipo": "sintese",
+    "doc": "pdi",
+    "artigo": "",
+    "paginas": [67],
+    "resposta_curta": "Trata da inclusão de estudantes com deficiência, TEA e altas habilidades; criou o Núcleo de Acessibilidade e o SINACE."
+  },
+  {
+    "id": "q15",
+    "pergunta": "Quem pode se credenciar como docente permanente na pós-graduação?",
+    "tipo": "factual",
+    "doc": "pos",
+    "artigo": "Art. 25",
+    "paginas": [10],
+    "resposta_curta": "Docentes com vínculo com a UFG que atendam aos requisitos de ensino, pesquisa e orientação."
+  },
+  {
+    "id": "q16",
+    "pergunta": "Qual o prazo máximo de prorrogação para conclusão do mestrado?",
+    "tipo": "factual",
+    "doc": "pos",
+    "artigo": "Art. 49",
+    "paginas": [18],
+    "resposta_curta": "Até 6 meses, com uma prorrogação adicional de até 3 meses."
+  },
+  {
+    "id": "q17",
+    "pergunta": "Qual o horário de funcionamento da Biblioteca Central?",
+    "tipo": "fora-do-corpus",
+    "doc": "",
+    "artigo": "",
+    "paginas": [],
+    "resposta_curta": "Não está no corpus; o assistente deve dizer que não encontrou."
+  },
+  {
+    "id": "q18",
+    "pergunta": "Qual o valor da bolsa de pós-doutorado da CAPES?",
+    "tipo": "fora-do-corpus",
+    "doc": "",
+    "artigo": "",
+    "paginas": [],
+    "resposta_curta": "Não está no corpus; o assistente deve dizer que não encontrou."
+  }
+]

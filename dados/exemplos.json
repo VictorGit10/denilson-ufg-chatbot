@@ -1,0 +1,562 @@
+[
+  {
+    "pergunta": "O estágio não obrigatório pode ser aproveitado como estágio obrigatório?",
+    "modelo": "deepseek-v4.1-flash:cloud",
+    "gerado_em": "2026-11-05",
+    "recuperados": [
+      {
+        "id": "faq_estagio-0010",
+        "doc": "faq_estagio",
+        "pagina": 9,
+        "artigo": "",
+        "secao": "obrigatórios?",
+        "texto": "6 Quem é a figura do Supervisor/Preceptor da parte concedente?\nConforme a Lei n.11.788/2008, o estágio, como ato educativo\nescolar supervisionado, deverá ter acompanhamento efetivo pelo\nProfessor Orientador e por um Supervisor da parte concedente.\nEsta deverá indicar um servidor/funcionário de seu quadro de\npessoal, com formação ou experiência profissional na área de\nconhecimento relativa ao curso do estagiário, para orientar e\nsupervisionar até 10 (dez) estagiários simultaneamente.\n\n7 Qual a diferença entre estágios curriculares obrigatórios e não\nobrigatórios?\nO estágio curricular obrigatório é aquele definido como tal no\nprojeto pedagógico do curso (PPC), cuja carga horária é requisito\npara aprovação (Lei n.11788/2008). Na UFG, esta modalidade de\nestágio é materializada como disciplina do currículo dos cursos.",
+        "score": 28.087215332051244
+      },
+      {
+        "id": "rgcg-0044",
+        "doc": "rgcg",
+        "pagina": 10,
+        "artigo": "Art. 27",
+        "secao": "Seção I",
+        "texto": "Art. 27. O estágio curricular não obrigatório não poderá ser aproveitado\ncomo estágio curricular obrigatório.\n\nCapítulo II\nDo Ingresso e da Matrícula\n\nSeção I\nDo Ingresso",
+        "score": 27.707621589313902
+      },
+      {
+        "id": "faq_estagio-0014",
+        "doc": "faq_estagio",
+        "pagina": 11,
+        "artigo": "",
+        "secao": "não tem convênio com a UFG, como proceder?",
+        "texto": "12 É possível aproveitar a carga horária dos estágios não-obrigatórios\npara fins de validação de estágio obrigatório?\nNão, conforme art. 27 do RGCG (Resolução CEPEC n.1122/2012)\n\n13 O que é o Plano de Estágio?\nÉ o documento que tem o objetivo de apresentar as atividades\na serem desenvolvidas pelo aluno na concedente durante seu\nperíodo de estágio. O Plano de Estágio deve demonstrar que o\naluno terá oportunidade de desenvolvimento pessoal e profissional,\nincrementando sua formação com a realização das atividades\nprogramadas. Este documento deverá ser retomado após seis\nmeses, quando o estagiário apresentar seu relatório, que deve\ndemonstrar, por sua vez, a importância que aquele estágio teve\nem sua formação.",
+        "score": 26.476774098460215
+      },
+      {
+        "id": "faq_estagio-0011",
+        "doc": "faq_estagio",
+        "pagina": 9,
+        "artigo": "",
+        "secao": "obrigatórios?",
+        "texto": "O estágio curricular não obrigatório é aquele desenvolvido como\natividade opcional, acrescida à carga horária no histórico do\nestudante (Lei n.11788/2008). Os estágios não obrigatórios são de\nlivre escolha dos alunos interessados e não necessitam de indicação\nexpressa nos currículos. As empresas que aceitam estagiários dessa\nmodalidade em seus quadros não recolhem encargos sociais, pois\no estágio não tem vínculo empregatício, já que não é trabalho\npropriamente dito. Os estágios não obrigatórios não podem\nultrapassar 24 meses de duração no mesmo local. Cada curso deve\nindicar em seu PPC o período mínimo, dentro do fluxo curricular,\na partir do qual o estudante pode pleitear esta modalidade de\nestágio.",
+        "score": 22.447327795944684
+      },
+      {
+        "id": "rgcg-0033",
+        "doc": "rgcg",
+        "pagina": 8,
+        "artigo": "Art. 20",
+        "secao": "Seção III",
+        "texto": "§ 2º Nos estágios curriculares obrigatórios, o estagiário:\n\nI - poderá receber o pagamento de bolsa da instituição na qual realiza o\nestágio;\nII - terá direito a cobertura de seguro de acidentes pessoais paga pela\nUFG.\n\n§ 3º Nos estágios curriculares não obrigatórios, o estagiário receberá o\npagamento de bolsa estágio ou outra forma de contraprestação que venha a ser acordada, bem\ncomo auxílio transporte e seguro pago pela instituição na qual realiza o estágio.",
+        "score": 22.062764008783965
+      },
+      {
+        "id": "faq_estagio-0006",
+        "doc": "faq_estagio",
+        "pagina": 7,
+        "artigo": "",
+        "secao": "4 Quais as atribuições do coordenador de estágio do curso?",
+        "texto": "Não obrigatório: desde que o estudante atenda à política de estágio\ndescrita no PPC do seu curso e exista uma instituição (empresa,\nescola ou outra entidade) que aceite estagiários é preciso entrar em\ncontato com a concedente e candidatar-se à vaga. Uma vez aceito\nna concedente, o aluno deverá observar se há convênio com a UFG,\ncaso não haja, é preciso providenciar junto ao setor de convênios\n(www.convenios.ufg.br). Só é permitido o início do estágio após\na assinatura do convênio, quando a entidade concedente estará\ndevidamente cadastrada e apta a receber estagiários da UFG.\nUma vez observado esses critérios o estudante precisa, antes de\niniciar o estágio, preencher e assinar o Termo de Compromisso e o\nPlano de Estágio e providenciar o comprovante de matrícula. Estes\ndocumentos devem ser apresentados à Coordenação de Estágios\ndo Curso, os quais serão analisados do ponto de vista formal.\nOBS: somente esta modalidade de estágio (não obrigatório)\npermite que o estudante procure vagas via agente de integração\n(conveniado com a UFG).",
+        "score": 20.199439129101663
+      },
+      {
+        "id": "faq_estagio-0001",
+        "doc": "faq_estagio",
+        "pagina": 5,
+        "artigo": "",
+        "secao": "2 Quais requisitos devem ser observados na concessão do estágio?",
+        "texto": "Dúvidas Frequentes\n\n1 Qual o principal objetivo da realização de estágios durante o curso\nde graduação?\nO estágio é ato educativo escolar supervisionado, desenvolvido\nno ambiente de trabalho, que visa à preparação para o trabalho\nprodutivo de educandos, ao aprendizado de competências\npróprias da atividade profissional e à contextualização curricular\n(Lei no11.788/2008, art.1º).\nOs estágios curriculares, sejam os obrigatórios ou não obrigatórios,\nservem para que os estudantes tenham oportunidades de observar\ne vivenciar experiências profissionais, dentro dos devidos limites\ndados por sua formação ainda incompleta; aplicar no ambiente\nprofissional os conhecimentos que obtêm ao longo do curso, bem\ncomo trazer para a sala de aula os aspectos mais importantes\ndaquilo que se aprende por meio da prática profissional.\n\n2 Quais requisitos devem ser observados na concessão do estágio?",
+        "score": 20.189451970793606
+      },
+      {
+        "id": "faq_estagio-0012",
+        "doc": "faq_estagio",
+        "pagina": 10,
+        "artigo": "",
+        "secao": "11 Nos dias de avaliação poderá haver redução da carga horária?",
+        "texto": "8 A partir de quando é possível fazer um estágio não obrigatório?\nCada curso, a partir de sugestão formulada por seu núcleo docente\nestruturante (NDE), define este período, o qual deve constar no\nPPC. A orientação da PROGRAD é de que seja no mínimo a partir\ndo 2º semestre do curso.\n\n9 O que acontece com as situações que não atendam as legislações\ne normativas referentes aos estágios?\nSegundo o art. 15 da Lei 11.788/2008, a manutenção de estagiários\nem desconformidade com a legislação caracteriza vínculo de\nemprego do educando com a parte concedente do estágio para\ntodos os fins da legislação trabalhista e previdenciária.\n\n10 Qual a carga horária permitida para um estágio não obrigatório?\nNo período letivo, a lei de estágio prevê 4 horas diárias de estágio\n(20 horas semanais) ou até 6 horas diárias (30 horas semanais). No\nentanto, é preciso observar a política de estágio prevista no PPC\ndo curso e a compatibilidade com as atividades acadêmicas do\ncurso. Esta previsão de carga horária deve estar expressa no termo\nde compromisso.",
+        "score": 18.118119087668088
+      },
+      {
+        "id": "rgcg-0031",
+        "doc": "rgcg",
+        "pagina": 7,
+        "artigo": "Art. 19",
+        "secao": "Seção III",
+        "texto": "Art. 19. Para a realização do estágio curricular obrigatório ou não\nobrigatório, será necessária a celebração de termo de compromisso entre o educando, a parte\nconcedente do estágio e a instituição de ensino e a compatibilidade entre as atividades\ndesenvolvidas no estágio e aquelas previstas no termo de compromisso.\n\nParágrafo único. As atividades de estágio curricular obrigatório serão\nvalidadas somente para o estudante que estiver devidamente matriculado na disciplina ou eixo\ntemático/módulo de estágio e seja orientado por um professor do curso.",
+        "score": 16.689425197321604
+      },
+      {
+        "id": "pdi-0111",
+        "doc": "pdi",
+        "pagina": 61,
+        "artigo": "",
+        "secao": "",
+        "texto": "Existem dois tipos de estágios: os curriculares obrigatórios e os curriculares não\nobrigatórios. Todos os estágios são atividades formativas, devem constar do projeto\npedagógico do curso e, ainda, estar sempre vinculados de forma direta ou\ninterdisciplinarmente à área de formação profissional do acadêmico. Devem ser realizados\nem ambientes próprios da Universidade ou em locais conveniados com a UFG. Estágio obrigatório é aquele definido como tal no projeto pedagógico de curso, cuja\ncarga horária é requisito para aprovação e conclusão do curso. Por outro lado, o estágio não\nobrigatório é aquele desenvolvido como atividade opcional, acrescida à carga horária regular\ne obrigatória. A Coordenadoria Geral de Estágios, prevista no RGCG, tem atuação na coordenação e\nna avaliação da política referente a essa atividade, na orientação dos cursos sobre a legislação\npertinente ao estágio e mediação nas relações com as instituições concedentes e agentes de\nintegração.",
+        "score": 16.248730478918453
+      }
+    ],
+    "contexto": "[1] Caderno de Dúvidas Frequentes — Estágio · p. 9\n6 Quem é a figura do Supervisor/Preceptor da parte concedente?\nConforme a Lei n.11.788/2008, o estágio, como ato educativo\nescolar supervisionado, deverá ter acompanhamento efetivo pelo\nProfessor Orientador e por um Supervisor da parte concedente.\nEsta deverá indicar um servidor/funcionário de seu quadro de\npessoal, com formação ou experiência profissional na área de\nconhecimento relativa ao curso do estagiário, para orientar e\nsupervisionar até 10 (dez) estagiários simultaneamente.\n\n7 Qual a diferença entre estágios curriculares obrigatórios e não\nobrigatórios?\nO estágio curricular obrigatório é aquele definido como tal no\nprojeto pedagógico do curso (PPC), cuja carga horária é requisito\npara aprovação (Lei n.11788/2008). Na UFG, esta modalidade de\nestágio é materializada como disciplina do currículo dos cursos.\n\n---\n\n[2] Regulamento Geral dos Cursos de Graduação (RGCG) · Art. 27 · p. 10\nArt. 27. O estágio curricular não obrigatório não poderá ser aproveitado\ncomo estágio curricular obrigatório.\n\nCapítulo II\nDo Ingresso e da Matrícula\n\nSeção I\nDo Ingresso\n\n---\n\n[3] Caderno de Dúvidas Frequentes — Estágio · p. 11\n12 É possível aproveitar a carga horária dos estágios não-obrigatórios\npara fins de validação de estágio obrigatório?\nNão, conforme art. 27 do RGCG (Resolução CEPEC n.1122/2012)\n\n13 O que é o Plano de Estágio?\nÉ o documento que tem o objetivo de apresentar as atividades\na serem desenvolvidas pelo aluno na concedente durante seu\nperíodo de estágio. O Plano de Estágio deve demonstrar que o\naluno terá oportunidade de desenvolvimento pessoal e profissional,\nincrementando sua formação com a realização das atividades\nprogramadas. Este documento deverá ser retomado após seis\nmeses, quando o estagiário apresentar seu relatório, que deve\ndemonstrar, por sua vez, a importância que aquele estágio teve\nem sua formação.\n\n---\n\n[4] Caderno de Dúvidas Frequentes — Estágio · p. 9\nO estágio curricular não obrigatório é aquele desenvolvido como\natividade opcional, acrescida à carga horária no histórico do\nestudante (Lei n.11788/2008). Os estágios não obrigatórios são de\nlivre escolha dos alunos interessados e não necessitam de indicação\nexpressa nos currículos. As empresas que aceitam estagiários dessa\nmodalidade em seus quadros não recolhem encargos sociais, pois\no estágio não tem vínculo empregatício, já que não é trabalho\npropriamente dito. Os estágios não obrigatórios não podem\nultrapassar 24 meses de duração no mesmo local. Cada curso deve\nindicar em seu PPC o período mínimo, dentro do fluxo curricular,\na partir do qual o estudante pode pleitear esta modalidade de\nestágio.\n\n---\n\n[5] Regulamento Geral dos Cursos de Graduação (RGCG) · Art. 20 · p. 8\n§ 2º Nos estágios curriculares obrigatórios, o estagiário:\n\nI - poderá receber o pagamento de bolsa da instituição na qual realiza o\nestágio;\nII - terá direito a cobertura de seguro de acidentes pessoais paga pela\nUFG.\n\n§ 3º Nos estágios curriculares não obrigatórios, o estagiário receberá o\npagamento de bolsa estágio ou outra forma de contraprestação que venha a ser acordada, bem\ncomo auxílio transporte e seguro pago pela instituição na qual realiza o estágio.\n\n---\n\n[6] Caderno de Dúvidas Frequentes — Estágio · p. 7\nNão obrigatório: desde que o estudante atenda à política de estágio\ndescrita no PPC do seu curso e exista uma instituição (empresa,\nescola ou outra entidade) que aceite estagiários é preciso entrar em\ncontato com a concedente e candidatar-se à vaga. Uma vez aceito\nna concedente, o aluno deverá observar se há convênio com a UFG,\ncaso não haja, é preciso providenciar junto ao setor de convênios\n(www.convenios.ufg.br). Só é permitido o início do estágio após\na assinatura do convênio, quando a entidade concedente estará\ndevidamente cadastrada e apta a receber estagiários da UFG.\nUma vez observado esses critérios o estudante precisa, antes de\niniciar o estágio, preencher e assinar o Termo de Compromisso e o\nPlano de Estágio e providenciar o comprovante de matrícula. Estes\ndocumentos devem ser apresentados à Coordenação de Estágios\ndo Curso, os quais serão analisados do ponto de vista formal.\nOBS: somente esta modalidade de estágio (não obrigatório)\npermite que o estudante procure vagas via agente de integração\n(conveniado com a UFG).\n\n---\n\n[7] Caderno de Dúvidas Frequentes — Estágio · p. 5\nDúvidas Frequentes\n\n1 Qual o principal objetivo da realização de estágios durante o curso\nde graduação?\nO estágio é ato educativo escolar supervisionado, desenvolvido\nno ambiente de trabalho, que visa à preparação para o trabalho\nprodutivo de educandos, ao aprendizado de competências\npróprias da atividade profissional e à contextualização curricular\n(Lei no11.788/2008, art.1º).\nOs estágios curriculares, sejam os obrigatórios ou não obrigatórios,\nservem para que os estudantes tenham oportunidades de observar\ne vivenciar experiências profissionais, dentro dos devidos limites\ndados por sua formação ainda incompleta; aplicar no ambiente\nprofissional os conhecimentos que obtêm ao longo do curso, bem\ncomo trazer para a sala de aula os aspectos mais importantes\ndaquilo que se aprende por meio da prática profissional.\n\n2 Quais requisitos devem ser observados na concessão do estágio?\n\n---\n\n[8] Caderno de Dúvidas Frequentes — Estágio · p. 10\n8 A partir de quando é possível fazer um estágio não obrigatório?\nCada curso, a partir de sugestão formulada por seu núcleo docente\nestruturante (NDE), define este período, o qual deve constar no\nPPC. A orientação da PROGRAD é de que seja no mínimo a partir\ndo 2º semestre do curso.\n\n9 O que acontece com as situações que não atendam as legislações\ne normativas referentes aos estágios?\nSegundo o art. 15 da Lei 11.788/2008, a manutenção de estagiários\nem desconformidade com a legislação caracteriza vínculo de\nemprego do educando com a parte concedente do estágio para\ntodos os fins da legislação trabalhista e previdenciária.\n\n10 Qual a carga horária permitida para um estágio não obrigatório?\nNo período letivo, a lei de estágio prevê 4 horas diárias de estágio\n(20 horas semanais) ou até 6 horas diárias (30 horas semanais). No\nentanto, é preciso observar a política de estágio prevista no PPC\ndo curso e a compatibilidade com as atividades acadêmicas do\ncurso. Esta previsão de carga horária deve estar expressa no termo\nde compromisso.\n\n---\n\n[9] Regulamento Geral dos Cursos de Graduação (RGCG) · Art. 19 · p. 7\nArt. 19. Para a realização do estágio curricular obrigatório ou não\nobrigatório, será necessária a celebração de termo de compromisso entre o educando, a parte\nconcedente do estágio e a instituição de ensino e a compatibilidade entre as atividades\ndesenvolvidas no estágio e aquelas previstas no termo de compromisso.\n\nParágrafo único. As atividades de estágio curricular obrigatório serão\nvalidadas somente para o estudante que estiver devidamente matriculado na disciplina ou eixo\ntemático/módulo de estágio e seja orientado por um professor do curso.\n\n---\n\n[10] Plano de Desenvolvimento Institucional (PDI 2023–2027) · p. 61\nExistem dois tipos de estágios: os curriculares obrigatórios e os curriculares não\nobrigatórios. Todos os estágios são atividades formativas, devem constar do projeto\npedagógico do curso e, ainda, estar sempre vinculados de forma direta ou\ninterdisciplinarmente à área de formação profissional do acadêmico. Devem ser realizados\nem ambientes próprios da Universidade ou em locais conveniados com a UFG. Estágio obrigatório é aquele definido como tal no projeto pedagógico de curso, cuja\ncarga horária é requisito para aprovação e conclusão do curso. Por outro lado, o estágio não\nobrigatório é aquele desenvolvido como atividade opcional, acrescida à carga horária regular\ne obrigatória. A Coordenadoria Geral de Estágios, prevista no RGCG, tem atuação na coordenação e\nna avaliação da política referente a essa atividade, na orientação dos cursos sobre a legislação\npertinente ao estágio e mediação nas relações com as instituições concedentes e agentes de\nintegração.",
+    "resposta": "Não. O Regulamento Geral dos Cursos de Graduação (RGCG) determina expressamente que \"o estágio curricular não obrigatório não poderá ser aproveitado como estágio curricular obrigatório\" [2]. O Caderno de Dúvidas Frequentes confirma o entendimento, respondendo negativamente à possibilidade de aproveitar a carga horária dos estágios não obrigatórios para validação de estágio obrigatório, com base no art. 27 do RGCG (Resolução CEPEC n. 1122/2012) [3]. A distinção entre as modalidades também aparece na definição legal: o obrigatório é requisito de aprovação e está materializado como disciplina do currículo, enquanto o não obrigatório é atividade opcional acrescida à carga horária [1][4].",
+    "citacoes": [
+      {
+        "id": 2,
+        "frase": "Art. 27. O estágio curricular não obrigatório não poderá ser aproveitado como estágio curricular obrigatório."
+      },
+      {
+        "id": 3,
+        "frase": "Não, conforme art. 27 do RGCG (Resolução CEPEC n.1122/2012)"
+      }
+    ],
+    "encontrado": true,
+    "observacao": "A referência ao art. 27 remete à Resolução CEPEC n. 1122/2012, citada no trecho [3]; não foram fornecidos trechos de versão retificada ou revogada do RGCG.",
+    "citacoes_invalidas": 0
+  },
+  {
+    "pergunta": "Qual o valor da bolsa de monitoria?",
+    "modelo": "deepseek-v4.1-flash:cloud",
+    "gerado_em": "2026-11-05",
+    "recuperados": [
+      {
+        "id": "edital_monitoria-0017",
+        "doc": "edital_monitoria",
+        "pagina": 3,
+        "artigo": "",
+        "secao": "14.2 O(A) estudante deve preencher o relatório final para a elaboração do certificado.",
+        "texto": "8 DAS BOLSAS\n8.1 A bolsa de monitoria será concedida ao(à) estudante selecionado(a) na ordem de classificação e observado o número de vagas.\n8.2 O(a) estudante bolsista receberá R$700,00 mensais.\n8.3 É vedada a acumulação de bolsa de monitoria com outra bolsa acadêmica, exceto a Bolsa de Assistência Estudantil.\n8.4 A vigência das bolsas será de 10 (dez) meses, nos Planos de Trabalho Integrados Anualizados, compreendendo, em regra, os períodos de agosto a dezembro e de março a\njulho, com recondução automática do monitor entre os semestres;\n8.5 Nos cursos que adotam a pedagogia da alternância, com início do semestre letivo em janeiro, a vigência das bolsas poderá compreender os períodos de janeiro a maio e\nde julho a novembro.",
+        "score": 17.330363410740873
+      },
+      {
+        "id": "edital_monitoria-0002",
+        "doc": "edital_monitoria",
+        "pagina": 1,
+        "artigo": "",
+        "secao": "QUANTITATIVO",
+        "texto": "concessão de bolsas a estudantes de graduação; b) Monitoria não remunerada: estudantes voluntários que atuarão sem remuneração. 2 DA SUBMISSÃO DAS PROPOSTAS\n2.1 Para o presente Edital, serão considerados apenas os Projetos de Ensino com monitoria elaborados segundo as diretrizes da RESOLUÇÃO CEPEC/UFG n. 1692, DE 10\nde setembro de 2021, aprovados pelo Conselho Diretor da Unidade Acadêmica (UA) ou Unidade Acadêmica Especial (UAE), que sigam as recomendações do Manual do\nPrograma de Monitoria Acadêmica, e com data de encerramento posterior a julho de 2027. 2.2 Cada UA/UAE deve elaborar e submeter um único e integrado Projeto de Ensino com monitoria, desenvolvido pelos docentes e coordenadores, que reflita as\nnecessidades pedagógicas, estratégias, justificativas para as bolsas e compromisso com inclusão e equidade. 2.3 A coordenação do Projeto de Ensino com monitoria deverá ser indicada pela UA/UAE, podendo ser o(a) Coordenador(a) de Programas e Projetos da Graduação ou\ndocente formalmente designado(a) pela unidade.",
+        "score": 14.996643847091704
+      },
+      {
+        "id": "edital_monitoria-0016",
+        "doc": "edital_monitoria",
+        "pagina": 3,
+        "artigo": "",
+        "secao": "14.2 O(A) estudante deve preencher o relatório final para a elaboração do certificado.",
+        "texto": "7 DA CONVOCAÇÃO DOS MONITORES\n7.1 A UA/UAE proponente convocará os(as) selecionados(as) via Sistema Acadêmico, conforme prazo definido no Apêndice A deste Edital.\n7.2 Os(as) selecionados(as) devem aceitar a monitoria via Sistema Acadêmico em até 48h da publicação do resultado final.\n7.3 O(a) monitor(a) que não desejar a bolsa deve manifestar recusa, via SIGAA, até 48h da publicação do resultado final.\n7.4 Os(as) selecionados(as) que não aceitarem a monitoria serão eliminados(as) do processo seletivo.",
+        "score": 13.684017128753945
+      },
+      {
+        "id": "edital_monitoria-0010",
+        "doc": "edital_monitoria",
+        "pagina": 2,
+        "artigo": "",
+        "secao": "6.8 O processo seletivo deverá contemplar, obrigatoriamente, os seguintes critérios, com pesos iguais:",
+        "texto": "5 DO CADASTRO DOS PLANOS DE TRABALHO\n5.1 Após a divulgação do resultado da distribuição de bolsas, os docentes responsáveis pelos componentes curriculares que ofertarão vagas de monitoria nas UA/UAE\ndeverão cadastrar os respectivos Planos de Trabalho no Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA), no período estabelecido neste Edital. 5.2 O Plano de Trabalho deverá conter, obrigatoriamente, o número de vagas, discriminando monitores bolsistas e voluntários por componente curricular; a descrição das\natividades a serem desenvolvidas pelos monitores, incluindo funções e carga horária e; as informações relativas ao processo seletivo, contemplando cronograma, critérios de\navaliação e atribuições previstas para os monitores selecionados. 5.3 O modelo de Plano de Trabalho deve seguir as recomendações Manual do Programa de Monitoria Acadêmica.",
+        "score": 13.311918744319046
+      },
+      {
+        "id": "edital_monitoria-0029",
+        "doc": "edital_monitoria",
+        "pagina": 6,
+        "artigo": "",
+        "secao": "SISTEMA DE AVALIAÇÃO E DISTRIBUIÇÃO DE BOLSAS – MONITORIA UFG 2026/2027",
+        "texto": "(QUADROS PREENCHIDOS PELA PROGRAD)\n\nCRITÉRIOS QUALITATIVOS E QUANTITATIVOS – CONFORME ITEM 3 DESTE EDITAL\n\nEDITAL. 258 DE 27 DE ABRIL DE 2026\n\nTIPO DE\nCRITÉRIO NOTA PESO\nCRITÉRIO\nViabilidade do projeto para o êxito\nacadêmico dos estudantes, com ênfase\n0,0 – 2\nQUALITATIVO\nna redução da evasão e retenção 10,0\nQualidade dos aspectos metodológicos\ndo projeto, incluindo propostas\n0,0 – 1\nQUALITATIVO\ninovadoras de ensino-aprendizagem 10,0\nAtendimento a grupos socialmente\nvulnerabilizados e/ou com necessidades\n0,0 – 2\nQUALITATIVO\nespeciais de aprendizado 10,0\nNúmero de componentes relacionados ao\n0,0 – 2\nQUANTITATIVO Projeto de ensino\n10,0\nNúmero de matriculados por turma dos\n0,0 – 3\nQUANTITATIVO componentes relacionados no Projeto\n10,0\n\nSISTEMA DE AVALIAÇÃO E DISTRIBUIÇÃO DE BOLSAS – MONITORIA UFG 2026/2027\n\nCRITÉRIO QUANTITATIVO (peso total = 5) CRITÉRIO QUALITATIVO\n\nSigla Unidade Acadêmica Nº Nota Quant. Nº Nota Quant. Nota\nComponentes Componentes Matric./ Matriculados Avaliador 1\nTurma (0–10)\n\nEA Escola de Agronomia",
+        "score": 10.514837177766237
+      },
+      {
+        "id": "edital_monitoria-0006",
+        "doc": "edital_monitoria",
+        "pagina": 2,
+        "artigo": "",
+        "secao": "6.8 O processo seletivo deverá contemplar, obrigatoriamente, os seguintes critérios, com pesos iguais:",
+        "texto": "nota final correspondente à média aritmética das avaliações atribuídas. 3.5 Os critérios quantitativos serão apurados com base em dados institucionais extraídos da plataforma Analisa UFG, considerando, para fins de cálculo, as informações\nreferentes aos anos letivos de 2024 e 2025, conforme APÊNDICE C. Parágrafo único. Na inexistência parcial ou total de dados para o período de referência, a pontuação será calculada com base nas informações disponíveis, podendo ser\nadotado valor de referência institucional, de modo a não prejudicar a unidade na avaliação. 3.6 A pontuação final das propostas será obtida a partir da ponderação dos critérios qualitativos e quantitativos, conforme os pesos e metodologia definida neste Edital. 3.7 A distribuição das cotas de bolsas será realizada com base nas notas finais obtidas pelas propostas, observando-se os critérios estabelecidos e as fórmulas apresentadas\nnos APÊNDICE B e C deste Edital.",
+        "score": 10.479983409331279
+      },
+      {
+        "id": "edital_monitoria_retificacao-0000",
+        "doc": "edital_monitoria_retificacao",
+        "pagina": 1,
+        "artigo": "",
+        "secao": "QUALITATIVO",
+        "texto": "EDITAL\n\nRETIFICAÇÃO DO EDITAL PROGRAD Nº. 258 DE 27 DE ABRIL DE 2026\n\nA Pró-Reitoria de Graduação (PROGRAD), torna pública a RETIFICAÇÃO do Edital PROGRAD nº. 258\nde 27 de abril de 2026, que estabelece normas gerais para a realização do Processo Seletivo, visando a\nseleção de discentes para atuarem como monitores(as) nos cursos de graduação da UFG no período letivo\nde 2026 a 2027.\n\nONDE SE LÊ:\n3.3 Quadro 1 - Critérios de avaliação dos Projetos de Ensino com monitoria:",
+        "score": 7.896351835494786
+      },
+      {
+        "id": "pdi-0223",
+        "doc": "pdi",
+        "pagina": 113,
+        "artigo": "",
+        "secao": "",
+        "texto": "Figura 7 – Execução orçamentária – valores empenhados. UFG 2016-2021\n\nFonte: Secretaria de Planejamento, Avaliação e Informações Institucionais/UFG (15/6/2021).\nNota: Valores atualizados pelo IPCA – 12/2020.\n\n[Descrição: Gráfico em fundo branco e contornos pretos. Em linha azul é indicado os valores empenhados pela\nUFG, de 2016 a 2021. Em 2016 houve um empenho de R$ 1.816.959.163; em 2017 de R$ 1.833.606.670; em\n2018 de R$ 1.834.624.014; em 2019 de R$ 1.844.065.414; houve uma queda considerável na linha de empenho,\npois 2020 teve R$ 1.626.547.831 e em 2021 de R$ 1.207.455.679]",
+        "score": 7.7805649613509145
+      },
+      {
+        "id": "rgcg-0033",
+        "doc": "rgcg",
+        "pagina": 8,
+        "artigo": "Art. 20",
+        "secao": "Seção III",
+        "texto": "§ 2º Nos estágios curriculares obrigatórios, o estagiário:\n\nI - poderá receber o pagamento de bolsa da instituição na qual realiza o\nestágio;\nII - terá direito a cobertura de seguro de acidentes pessoais paga pela\nUFG.\n\n§ 3º Nos estágios curriculares não obrigatórios, o estagiário receberá o\npagamento de bolsa estágio ou outra forma de contraprestação que venha a ser acordada, bem\ncomo auxílio transporte e seguro pago pela instituição na qual realiza o estágio.",
+        "score": 7.605761042815862
+      },
+      {
+        "id": "pdi-0204",
+        "doc": "pdi",
+        "pagina": 103,
+        "artigo": "",
+        "secao": "6.2.2.2 Evolução do acervo",
+        "texto": "A aquisição de acervo realizada em 2018 atendeu aos seguintes cursos: Arquitetura e\nUrbanismo, Direção de Artes, Estatística, Gestão da Informação, Relações Internacionais,\nBiotecnologia e Medicina.\nEm 2022, a aquisição de livros por pregão no valor de R$50.000,00 foi realizada para\natender aos cursos de Geologia e Educação Intercultural.\n\n6.2.2.2 Evolução do acervo\n\nPregão 122/2018\nValor empenhado, pois o pregão está em andamento.",
+        "score": 7.426211752473222
+      }
+    ],
+    "contexto": "[1] Edital PROGRAD nº 258/2026 — Monitoria Acadêmica · p. 3\n8 DAS BOLSAS\n8.1 A bolsa de monitoria será concedida ao(à) estudante selecionado(a) na ordem de classificação e observado o número de vagas.\n8.2 O(a) estudante bolsista receberá R$700,00 mensais.\n8.3 É vedada a acumulação de bolsa de monitoria com outra bolsa acadêmica, exceto a Bolsa de Assistência Estudantil.\n8.4 A vigência das bolsas será de 10 (dez) meses, nos Planos de Trabalho Integrados Anualizados, compreendendo, em regra, os períodos de agosto a dezembro e de março a\njulho, com recondução automática do monitor entre os semestres;\n8.5 Nos cursos que adotam a pedagogia da alternância, com início do semestre letivo em janeiro, a vigência das bolsas poderá compreender os períodos de janeiro a maio e\nde julho a novembro.\n\n---\n\n[2] Edital PROGRAD nº 258/2026 — Monitoria Acadêmica · p. 1\nconcessão de bolsas a estudantes de graduação; b) Monitoria não remunerada: estudantes voluntários que atuarão sem remuneração. 2 DA SUBMISSÃO DAS PROPOSTAS\n2.1 Para o presente Edital, serão considerados apenas os Projetos de Ensino com monitoria elaborados segundo as diretrizes da RESOLUÇÃO CEPEC/UFG n. 1692, DE 10\nde setembro de 2021, aprovados pelo Conselho Diretor da Unidade Acadêmica (UA) ou Unidade Acadêmica Especial (UAE), que sigam as recomendações do Manual do\nPrograma de Monitoria Acadêmica, e com data de encerramento posterior a julho de 2027. 2.2 Cada UA/UAE deve elaborar e submeter um único e integrado Projeto de Ensino com monitoria, desenvolvido pelos docentes e coordenadores, que reflita as\nnecessidades pedagógicas, estratégias, justificativas para as bolsas e compromisso com inclusão e equidade. 2.3 A coordenação do Projeto de Ensino com monitoria deverá ser indicada pela UA/UAE, podendo ser o(a) Coordenador(a) de Programas e Projetos da Graduação ou\ndocente formalmente designado(a) pela unidade.\n\n---\n\n[3] Edital PROGRAD nº 258/2026 — Monitoria Acadêmica · p. 3\n7 DA CONVOCAÇÃO DOS MONITORES\n7.1 A UA/UAE proponente convocará os(as) selecionados(as) via Sistema Acadêmico, conforme prazo definido no Apêndice A deste Edital.\n7.2 Os(as) selecionados(as) devem aceitar a monitoria via Sistema Acadêmico em até 48h da publicação do resultado final.\n7.3 O(a) monitor(a) que não desejar a bolsa deve manifestar recusa, via SIGAA, até 48h da publicação do resultado final.\n7.4 Os(as) selecionados(as) que não aceitarem a monitoria serão eliminados(as) do processo seletivo.\n\n---\n\n[4] Edital PROGRAD nº 258/2026 — Monitoria Acadêmica · p. 2\n5 DO CADASTRO DOS PLANOS DE TRABALHO\n5.1 Após a divulgação do resultado da distribuição de bolsas, os docentes responsáveis pelos componentes curriculares que ofertarão vagas de monitoria nas UA/UAE\ndeverão cadastrar os respectivos Planos de Trabalho no Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA), no período estabelecido neste Edital. 5.2 O Plano de Trabalho deverá conter, obrigatoriamente, o número de vagas, discriminando monitores bolsistas e voluntários por componente curricular; a descrição das\natividades a serem desenvolvidas pelos monitores, incluindo funções e carga horária e; as informações relativas ao processo seletivo, contemplando cronograma, critérios de\navaliação e atribuições previstas para os monitores selecionados. 5.3 O modelo de Plano de Trabalho deve seguir as recomendações Manual do Programa de Monitoria Acadêmica.\n\n---\n\n[5] Edital PROGRAD nº 258/2026 — Monitoria Acadêmica · p. 6\n(QUADROS PREENCHIDOS PELA PROGRAD)\n\nCRITÉRIOS QUALITATIVOS E QUANTITATIVOS – CONFORME ITEM 3 DESTE EDITAL\n\nEDITAL. 258 DE 27 DE ABRIL DE 2026\n\nTIPO DE\nCRITÉRIO NOTA PESO\nCRITÉRIO\nViabilidade do projeto para o êxito\nacadêmico dos estudantes, com ênfase\n0,0 – 2\nQUALITATIVO\nna redução da evasão e retenção 10,0\nQualidade dos aspectos metodológicos\ndo projeto, incluindo propostas\n0,0 – 1\nQUALITATIVO\ninovadoras de ensino-aprendizagem 10,0\nAtendimento a grupos socialmente\nvulnerabilizados e/ou com necessidades\n0,0 – 2\nQUALITATIVO\nespeciais de aprendizado 10,0\nNúmero de componentes relacionados ao\n0,0 – 2\nQUANTITATIVO Projeto de ensino\n10,0\nNúmero de matriculados por turma dos\n0,0 – 3\nQUANTITATIVO componentes relacionados no Projeto\n10,0\n\nSISTEMA DE AVALIAÇÃO E DISTRIBUIÇÃO DE BOLSAS – MONITORIA UFG 2026/2027\n\nCRITÉRIO QUANTITATIVO (peso total = 5) CRITÉRIO QUALITATIVO\n\nSigla Unidade Acadêmica Nº Nota Quant. Nº Nota Quant. Nota\nComponentes Componentes Matric./ Matriculados Avaliador 1\nTurma (0–10)\n\nEA Escola de Agronomia\n\n---\n\n[6] Edital PROGRAD nº 258/2026 — Monitoria Acadêmica · p. 2\nnota final correspondente à média aritmética das avaliações atribuídas. 3.5 Os critérios quantitativos serão apurados com base em dados institucionais extraídos da plataforma Analisa UFG, considerando, para fins de cálculo, as informações\nreferentes aos anos letivos de 2024 e 2025, conforme APÊNDICE C. Parágrafo único. Na inexistência parcial ou total de dados para o período de referência, a pontuação será calculada com base nas informações disponíveis, podendo ser\nadotado valor de referência institucional, de modo a não prejudicar a unidade na avaliação. 3.6 A pontuação final das propostas será obtida a partir da ponderação dos critérios qualitativos e quantitativos, conforme os pesos e metodologia definida neste Edital. 3.7 A distribuição das cotas de bolsas será realizada com base nas notas finais obtidas pelas propostas, observando-se os critérios estabelecidos e as fórmulas apresentadas\nnos APÊNDICE B e C deste Edital.\n\n---\n\n[7] Retificação do Edital PROGRAD nº 258/2026 — Monitoria · p. 1\nEDITAL\n\nRETIFICAÇÃO DO EDITAL PROGRAD Nº. 258 DE 27 DE ABRIL DE 2026\n\nA Pró-Reitoria de Graduação (PROGRAD), torna pública a RETIFICAÇÃO do Edital PROGRAD nº. 258\nde 27 de abril de 2026, que estabelece normas gerais para a realização do Processo Seletivo, visando a\nseleção de discentes para atuarem como monitores(as) nos cursos de graduação da UFG no período letivo\nde 2026 a 2027.\n\nONDE SE LÊ:\n3.3 Quadro 1 - Critérios de avaliação dos Projetos de Ensino com monitoria:\n\n---\n\n[8] Plano de Desenvolvimento Institucional (PDI 2023–2027) · p. 113\nFigura 7 – Execução orçamentária – valores empenhados. UFG 2016-2021\n\nFonte: Secretaria de Planejamento, Avaliação e Informações Institucionais/UFG (15/6/2021).\nNota: Valores atualizados pelo IPCA – 12/2020.\n\n[Descrição: Gráfico em fundo branco e contornos pretos. Em linha azul é indicado os valores empenhados pela\nUFG, de 2016 a 2021. Em 2016 houve um empenho de R$ 1.816.959.163; em 2017 de R$ 1.833.606.670; em\n2018 de R$ 1.834.624.014; em 2019 de R$ 1.844.065.414; houve uma queda considerável na linha de empenho,\npois 2020 teve R$ 1.626.547.831 e em 2021 de R$ 1.207.455.679]\n\n---\n\n[9] Regulamento Geral dos Cursos de Graduação (RGCG) · Art. 20 · p. 8\n§ 2º Nos estágios curriculares obrigatórios, o estagiário:\n\nI - poderá receber o pagamento de bolsa da instituição na qual realiza o\nestágio;\nII - terá direito a cobertura de seguro de acidentes pessoais paga pela\nUFG.\n\n§ 3º Nos estágios curriculares não obrigatórios, o estagiário receberá o\npagamento de bolsa estágio ou outra forma de contraprestação que venha a ser acordada, bem\ncomo auxílio transporte e seguro pago pela instituição na qual realiza o estágio.\n\n---\n\n[10] Plano de Desenvolvimento Institucional (PDI 2023–2027) · p. 103\nA aquisição de acervo realizada em 2018 atendeu aos seguintes cursos: Arquitetura e\nUrbanismo, Direção de Artes, Estatística, Gestão da Informação, Relações Internacionais,\nBiotecnologia e Medicina.\nEm 2022, a aquisição de livros por pregão no valor de R$50.000,00 foi realizada para\natender aos cursos de Geologia e Educação Intercultural.\n\n6.2.2.2 Evolução do acervo\n\nPregão 122/2018\nValor empenhado, pois o pregão está em andamento.",
+    "resposta": "O valor da bolsa de monitoria é de R$ 700,00 mensais, pago ao(à) estudante bolsista selecionado(a) na ordem de classificação, observado o número de vagas [1]. A bolsa tem vigência de 10 (dez) meses nos Planos de Trabalho Integrados Anualizados, em regra de agosto a dezembro e de março a julho, com recondução automática do monitor entre os semestres [1]. É vedada a acumulação da bolsa de monitoria com outra bolsa acadêmica, exceto a Bolsa de Assistência Estudantil [1].",
+    "citacoes": [
+      {
+        "id": 1,
+        "frase": "8.2 O(a) estudante bolsista receberá R$700,00 mensais."
+      }
+    ],
+    "encontrado": true,
+    "observacao": "Existe Retificação do Edital PROGRAD nº 258/2026 [7], mas ela altera o item 3.3 (Quadro 1 – Critérios de avaliação dos Projetos de Ensino), não o item 8.2 sobre o valor da bolsa, que permanece R$ 700,00 mensais.",
+    "citacoes_invalidas": 0
+  },
+  {
+    "pergunta": "O que mudou na retificação do Edital 258/2026?",
+    "modelo": "deepseek-v4.1-flash:cloud",
+    "gerado_em": "2026-11-05",
+    "recuperados": [
+      {
+        "id": "edital_monitoria_retificacao-0000",
+        "doc": "edital_monitoria_retificacao",
+        "pagina": 1,
+        "artigo": "",
+        "secao": "QUALITATIVO",
+        "texto": "EDITAL\n\nRETIFICAÇÃO DO EDITAL PROGRAD Nº. 258 DE 27 DE ABRIL DE 2026\n\nA Pró-Reitoria de Graduação (PROGRAD), torna pública a RETIFICAÇÃO do Edital PROGRAD nº. 258\nde 27 de abril de 2026, que estabelece normas gerais para a realização do Processo Seletivo, visando a\nseleção de discentes para atuarem como monitores(as) nos cursos de graduação da UFG no período letivo\nde 2026 a 2027.\n\nONDE SE LÊ:\n3.3 Quadro 1 - Critérios de avaliação dos Projetos de Ensino com monitoria:",
+        "score": 28.297350499353133
+      },
+      {
+        "id": "edital_monitoria_retificacao-0001",
+        "doc": "edital_monitoria_retificacao",
+        "pagina": 1,
+        "artigo": "",
+        "secao": "QUALITATIVO",
+        "texto": "TIPO DE\nCRITÉRIO NOTA PESO\nCRITÉRIO\nViabilidade do projeto para o êxito acadêmico 0,0 – 10,0 2\ndos estudantes, com ênfase na redução da\nevasão e retenção\nQualidade dos aspectos metodológicos do 0,0 – 10,0 1\nprojeto, incluindo propostas inovadoras de\nensino-aprendizagem\nQUALITATIVO Atendimento a grupos socialmente 0,0 – 10,0 2\nvulnerabilizados e/ou com necessidades\nespeciais de aprendizado (pessoas negras\n(pretas, pardas), indígenas, quilombolas,\nPCDs, pessoas surdas, pessoas trans, mães,\nidosos, refugiados, imigrantes, etc.),\ncontribuindo com a equidade e a justiça social\nNúmero de componentes relacionados ao 0,0 – 10,0 2\nProjeto de ensino\nQUANTITATIVO\nNúmero de matriculados por turma dos 0,0 – 10,0 3\ncomponentes relacionados no Projeto\n\nLEIA-SE\n\nTIPO DE\nCRITÉRIO NOTA PESO\nCRITÉRIO\nViabilidade do projeto para o êxito acadêmico 0,0 – 10,0 1\ndos estudantes, com ênfase na redução da\nevasão e retenção\nQualidade dos aspectos metodológicos do 0,0 – 10,0 1\nprojeto, incluindo propostas inovadoras de\nensino-aprendizagem\n\nQUALITATIVO",
+        "score": 21.3450554531167
+      },
+      {
+        "id": "edital_monitoria_retificacao-0002",
+        "doc": "edital_monitoria_retificacao",
+        "pagina": 2,
+        "artigo": "",
+        "secao": "QUANTITATIVO",
+        "texto": "Atendimento a grupos socialmente 0,0 – 10,0 3\nvulnerabilizados e/ou com necessidades\nespeciais de aprendizado (pessoas negras\n(pretas, pardas), indígenas, quilombolas,\nPCDs, pessoas surdas, pessoas trans, mães,\nidosos, refugiados, imigrantes, etc.),\ncontribuindo com a equidade e a justiça social\nNúmero de componentes por UA/UAE nos 0,0 – 10,0 2\nanos de 2024 e 2025\nQUANTITATIVO\nNúmero de matriculados por UA/UAE nos 0,0 – 10,0 3\nanos de 2024 e 2025\n\nLueli Nogueira Duarte e Silva\nPró-Reitora de Graduação\n\nDocumento assinado eletronicamente por Lueli Nogueira Duarte E Silva , Pró-Reitora, em\n14/05/2026, às 21:47, conforme horário oficial de Brasília, com fundamento no § 3º do art. 4º do\nDecreto nº 10.543, de 13 de novembro de 2020 .\n\nA autenticidade deste documento pode ser conferida no site\nhttps://sei.ufg.br/sei/controlador_externo.php?acao=documento_conferir&id_orgao_acesso_externo=0,\ninformando o código verificador 6189509 e o código CRC 4BB91ABF.\n\nReferência: Processo nº 23070.021111/2026-79 SEI nº 6189509",
+        "score": 21.103465273454482
+      },
+      {
+        "id": "edital_monitoria-0037",
+        "doc": "edital_monitoria",
+        "pagina": 8,
+        "artigo": "",
+        "secao": "",
+        "texto": "A autenticidade deste documento pode ser conferida no site https://sei.ufg.br/sei/controlador_externo.php?acao=documento_conferir&id_orgao_acesso_externo=0, informando o\ncódigo verificador 6153032 e o código CRC 262CA06D.\n\nReferência: Processo nº 23070.021111/2026-79 SEI nº 6153032\n\nEdital 258 (6153032) SEI 23070.021111/2026-79 / pg. 8",
+        "score": 15.096931707421724
+      },
+      {
+        "id": "edital_monitoria-0025",
+        "doc": "edital_monitoria",
+        "pagina": 4,
+        "artigo": "",
+        "secao": "APÊNDICE III",
+        "texto": "https://forms.gle/wrW9fS72vkD6cDBF7 Acadêmicas/Unidades\nrecursos do Acadêmicas Especiais\nresultado\npreliminar e\ndistribuição de\nbolsas\nAPÊNDICE III\n19/06/2026 Divulgação do https://prograd.ufg.br/p/monitoria PROGRAD\nresultado final da\navaliação dos\nProjetos de\nEnsino\ne das\ndistribuições das\nbolsas de\nmonitoria\n\nEdital 258 (6153032) SEI 23070.021111/2026-79 / pg. 4",
+        "score": 14.86977076510155
+      },
+      {
+        "id": "edital_monitoria-0000",
+        "doc": "edital_monitoria",
+        "pagina": 1,
+        "artigo": "",
+        "secao": "QUANTITATIVO",
+        "texto": "EDITAL\n\nEDITAL PROGRAD Nº. 258 DE 27 DE ABRIL DE 2026.\nA Pró-Reitoria de Graduação (PROGRAD), nos termos da Resolução CEPEC/UFG nº 1693, de 10 de setembro de 2021, torna público o Edital PROGRAD nº. 258 de 27 de\nabril de 2026, que estabelece normas gerais para a realização do Processo Seletivo, visando a seleção de discentes para atuarem como monitores(as) nos cursos de graduação\nda UFG no período letivo de 2026 a 2027. 1. DO PROGRAMA DE MONITORIA\n1.1. O Programa de Monitoria Acadêmica, regulamentado pelas Resoluções CEPEC/UFG nº 1692 e nº 1693, de 10 de setembro de 2021, visa promover a iniciação à\ndocência e o desenvolvimento acadêmico dos(as) estudantes por meio de atividades acadêmicas, realizadas em conjunto com docentes, com foco no aprimoramento do ensino\ne da aprendizagem nas disciplinas de graduação e na educação básica do CEPAE. 1.2. O Programa de Monitoria Acadêmica, administrado pela PROGRAD, tem como objetivos:",
+        "score": 14.862855184184783
+      },
+      {
+        "id": "edital_monitoria-0023",
+        "doc": "edital_monitoria",
+        "pagina": 4,
+        "artigo": "",
+        "secao": "APÊNDICE III",
+        "texto": "Datas Atividades Local Responsáveis\n27/04/2026 Publicação do https://prograd.ufg.br/p/monitoria PROGRAD\nEdital\n27/04/2026 a Prazo para https://sei.ufg.br Unidade\n28/05/2026 submissão do Formulário:",
+        "score": 14.850413342058488
+      },
+      {
+        "id": "edital_monitoria-0004",
+        "doc": "edital_monitoria",
+        "pagina": 1,
+        "artigo": "",
+        "secao": "QUANTITATIVO",
+        "texto": "3 DA AVALIAÇÃO DAS PROPOSTAS\n3.1 Os Projetos de Ensino com monitoria submetidos no âmbito deste Edital serão avaliados quanto à admissibilidade, ao enquadramento às normas previstas neste Edital\ne na Universidade Federal de Goiás, conforme a RESOLUÇÃO CEPEC/UFG N° 1692, DE 10 de setembro de 2021, e quanto aos critérios estabelecidos nesta seção.\n3.2 A avaliação das propostas compreenderá critérios qualitativos (0,0 a 5,0) e quantitativos (0,0 a 5,0), conforme descrito no Quadro 1.\n3.3 Quadro 1 - Critérios de avaliação dos Projetos de Ensino com monitoria",
+        "score": 14.086799687911503
+      },
+      {
+        "id": "edital_monitoria-0021",
+        "doc": "edital_monitoria",
+        "pagina": 3,
+        "artigo": "",
+        "secao": "14.2 O(A) estudante deve preencher o relatório final para a elaboração do certificado.",
+        "texto": "a) A convocação do(a) candidato(a) subsequente na lista dos(as) classificados(as) na seleção realizada na disciplina, desde que este(a) atenda aos demais critérios deste edital; só poderão ocorrer duas substituições no semestre letivo. 11.8Não havendo outros discentes classificados na disciplina, conforme item 11.7, alínea a, é facultada a convocação de discente classificado(a) em outra disciplina do Plano\nde Trabalho da monitoria.\n\n14 DA CERTIFICAÇÃO\n14.1 Será concedido Certificado de Monitoria ao(à) estudante que concluir a monitoria com cumprimento das obrigações previstas neste Edital, via Sistema Acadêmico.\n14.2 O(A) estudante deve preencher o relatório final para a elaboração do certificado.\n\nEdital 258 (6153032) SEI 23070.021111/2026-79 / pg. 3",
+        "score": 13.756769803932293
+      },
+      {
+        "id": "pos-0059",
+        "doc": "pos",
+        "pagina": 14,
+        "artigo": "Art. 35",
+        "secao": "",
+        "texto": "Art. 35. O processo seletivo dos PPGs será regido por Edital específico\nelaborado pela Comissão de Seleção, aprovado pela CPG e encaminhado para aprovação pela\nPRPG.\n\n§ 1º A documentação exigida para a inscrição no processo seletivo deverá\nser definida no regulamento de cada PPG, podendo ser complementada pelo Edital específico.\n\n§ 2º A Coordenação do PPG providenciará a publicação do Edital após\nciência da Direção da Unidade Acadêmica ou da Chefia da Unidade Acadêmica Especial a\nqual o PPG está vinculado, salvo a hipótese em que o PPG não esteja vinculado a uma\nUnidade Acadêmica ou Unidade Acadêmica Especial, conforme disposto no Estatuto da UFG,\nsendo que neste último caso a ciência será dada pela PRPG ou pelos Coordenadores de\nPesquisa e Pós-Graduação dos Campi ou de NIPEEs da UFG.",
+        "score": 3.085267067645038
+      }
+    ],
+    "contexto": "[1] Retificação do Edital PROGRAD nº 258/2026 — Monitoria · p. 1\nEDITAL\n\nRETIFICAÇÃO DO EDITAL PROGRAD Nº. 258 DE 27 DE ABRIL DE 2026\n\nA Pró-Reitoria de Graduação (PROGRAD), torna pública a RETIFICAÇÃO do Edital PROGRAD nº. 258\nde 27 de abril de 2026, que estabelece normas gerais para a realização do Processo Seletivo, visando a\nseleção de discentes para atuarem como monitores(as) nos cursos de graduação da UFG no período letivo\nde 2026 a 2027.\n\nONDE SE LÊ:\n3.3 Quadro 1 - Critérios de avaliação dos Projetos de Ensino com monitoria:\n\n---\n\n[2] Retificação do Edital PROGRAD nº 258/2026 — Monitoria · p. 1\nTIPO DE\nCRITÉRIO NOTA PESO\nCRITÉRIO\nViabilidade do projeto para o êxito acadêmico 0,0 – 10,0 2\ndos estudantes, com ênfase na redução da\nevasão e retenção\nQualidade dos aspectos metodológicos do 0,0 – 10,0 1\nprojeto, incluindo propostas inovadoras de\nensino-aprendizagem\nQUALITATIVO Atendimento a grupos socialmente 0,0 – 10,0 2\nvulnerabilizados e/ou com necessidades\nespeciais de aprendizado (pessoas negras\n(pretas, pardas), indígenas, quilombolas,\nPCDs, pessoas surdas, pessoas trans, mães,\nidosos, refugiados, imigrantes, etc.),\ncontribuindo com a equidade e a justiça social\nNúmero de componentes relacionados ao 0,0 – 10,0 2\nProjeto de ensino\nQUANTITATIVO\nNúmero de matriculados por turma dos 0,0 – 10,0 3\ncomponentes relacionados no Projeto\n\nLEIA-SE\n\nTIPO DE\nCRITÉRIO NOTA PESO\nCRITÉRIO\nViabilidade do projeto para o êxito acadêmico 0,0 – 10,0 1\ndos estudantes, com ênfase na redução da\nevasão e retenção\nQualidade dos aspectos metodológicos do 0,0 – 10,0 1\nprojeto, incluindo propostas inovadoras de\nensino-aprendizagem\n\nQUALITATIVO\n\n---\n\n[3] Retificação do Edital PROGRAD nº 258/2026 — Monitoria · p. 2\nAtendimento a grupos socialmente 0,0 – 10,0 3\nvulnerabilizados e/ou com necessidades\nespeciais de aprendizado (pessoas negras\n(pretas, pardas), indígenas, quilombolas,\nPCDs, pessoas surdas, pessoas trans, mães,\nidosos, refugiados, imigrantes, etc.),\ncontribuindo com a equidade e a justiça social\nNúmero de componentes por UA/UAE nos 0,0 – 10,0 2\nanos de 2024 e 2025\nQUANTITATIVO\nNúmero de matriculados por UA/UAE nos 0,0 – 10,0 3\nanos de 2024 e 2025\n\nLueli Nogueira Duarte e Silva\nPró-Reitora de Graduação\n\nDocumento assinado eletronicamente por Lueli Nogueira Duarte E Silva , Pró-Reitora, em\n14/05/2026, às 21:47, conforme horário oficial de Brasília, com fundamento no § 3º do art. 4º do\nDecreto nº 10.543, de 13 de novembro de 2020 .\n\nA autenticidade deste documento pode ser conferida no site\nhttps://sei.ufg.br/sei/controlador_externo.php?acao=documento_conferir&id_orgao_acesso_externo=0,\ninformando o código verificador 6189509 e o código CRC 4BB91ABF.\n\nReferência: Processo nº 23070.021111/2026-79 SEI nº 6189509\n\n---\n\n[4] Edital PROGRAD nº 258/2026 — Monitoria Acadêmica · p. 8\nA autenticidade deste documento pode ser conferida no site https://sei.ufg.br/sei/controlador_externo.php?acao=documento_conferir&id_orgao_acesso_externo=0, informando o\ncódigo verificador 6153032 e o código CRC 262CA06D.\n\nReferência: Processo nº 23070.021111/2026-79 SEI nº 6153032\n\nEdital 258 (6153032) SEI 23070.021111/2026-79 / pg. 8\n\n---\n\n[5] Edital PROGRAD nº 258/2026 — Monitoria Acadêmica · p. 4\nhttps://forms.gle/wrW9fS72vkD6cDBF7 Acadêmicas/Unidades\nrecursos do Acadêmicas Especiais\nresultado\npreliminar e\ndistribuição de\nbolsas\nAPÊNDICE III\n19/06/2026 Divulgação do https://prograd.ufg.br/p/monitoria PROGRAD\nresultado final da\navaliação dos\nProjetos de\nEnsino\ne das\ndistribuições das\nbolsas de\nmonitoria\n\nEdital 258 (6153032) SEI 23070.021111/2026-79 / pg. 4\n\n---\n\n[6] Edital PROGRAD nº 258/2026 — Monitoria Acadêmica · p. 1\nEDITAL\n\nEDITAL PROGRAD Nº. 258 DE 27 DE ABRIL DE 2026.\nA Pró-Reitoria de Graduação (PROGRAD), nos termos da Resolução CEPEC/UFG nº 1693, de 10 de setembro de 2021, torna público o Edital PROGRAD nº. 258 de 27 de\nabril de 2026, que estabelece normas gerais para a realização do Processo Seletivo, visando a seleção de discentes para atuarem como monitores(as) nos cursos de graduação\nda UFG no período letivo de 2026 a 2027. 1. DO PROGRAMA DE MONITORIA\n1.1. O Programa de Monitoria Acadêmica, regulamentado pelas Resoluções CEPEC/UFG nº 1692 e nº 1693, de 10 de setembro de 2021, visa promover a iniciação à\ndocência e o desenvolvimento acadêmico dos(as) estudantes por meio de atividades acadêmicas, realizadas em conjunto com docentes, com foco no aprimoramento do ensino\ne da aprendizagem nas disciplinas de graduação e na educação básica do CEPAE. 1.2. O Programa de Monitoria Acadêmica, administrado pela PROGRAD, tem como objetivos:\n\n---\n\n[7] Edital PROGRAD nº 258/2026 — Monitoria Acadêmica · p. 4\nDatas Atividades Local Responsáveis\n27/04/2026 Publicação do https://prograd.ufg.br/p/monitoria PROGRAD\nEdital\n27/04/2026 a Prazo para https://sei.ufg.br Unidade\n28/05/2026 submissão do Formulário:\n\n---\n\n[8] Edital PROGRAD nº 258/2026 — Monitoria Acadêmica · p. 1\n3 DA AVALIAÇÃO DAS PROPOSTAS\n3.1 Os Projetos de Ensino com monitoria submetidos no âmbito deste Edital serão avaliados quanto à admissibilidade, ao enquadramento às normas previstas neste Edital\ne na Universidade Federal de Goiás, conforme a RESOLUÇÃO CEPEC/UFG N° 1692, DE 10 de setembro de 2021, e quanto aos critérios estabelecidos nesta seção.\n3.2 A avaliação das propostas compreenderá critérios qualitativos (0,0 a 5,0) e quantitativos (0,0 a 5,0), conforme descrito no Quadro 1.\n3.3 Quadro 1 - Critérios de avaliação dos Projetos de Ensino com monitoria\n\n---\n\n[9] Edital PROGRAD nº 258/2026 — Monitoria Acadêmica · p. 3\na) A convocação do(a) candidato(a) subsequente na lista dos(as) classificados(as) na seleção realizada na disciplina, desde que este(a) atenda aos demais critérios deste edital; só poderão ocorrer duas substituições no semestre letivo. 11.8Não havendo outros discentes classificados na disciplina, conforme item 11.7, alínea a, é facultada a convocação de discente classificado(a) em outra disciplina do Plano\nde Trabalho da monitoria.\n\n14 DA CERTIFICAÇÃO\n14.1 Será concedido Certificado de Monitoria ao(à) estudante que concluir a monitoria com cumprimento das obrigações previstas neste Edital, via Sistema Acadêmico.\n14.2 O(A) estudante deve preencher o relatório final para a elaboração do certificado.\n\nEdital 258 (6153032) SEI 23070.021111/2026-79 / pg. 3\n\n---\n\n[10] Regulamento Geral dos Programas de Pós-Graduação Stricto Sensu · Art. 35 · p. 14\nArt. 35. O processo seletivo dos PPGs será regido por Edital específico\nelaborado pela Comissão de Seleção, aprovado pela CPG e encaminhado para aprovação pela\nPRPG.\n\n§ 1º A documentação exigida para a inscrição no processo seletivo deverá\nser definida no regulamento de cada PPG, podendo ser complementada pelo Edital específico.\n\n§ 2º A Coordenação do PPG providenciará a publicação do Edital após\nciência da Direção da Unidade Acadêmica ou da Chefia da Unidade Acadêmica Especial a\nqual o PPG está vinculado, salvo a hipótese em que o PPG não esteja vinculado a uma\nUnidade Acadêmica ou Unidade Acadêmica Especial, conforme disposto no Estatuto da UFG,\nsendo que neste último caso a ciência será dada pela PRPG ou pelos Coordenadores de\nPesquisa e Pós-Graduação dos Campi ou de NIPEEs da UFG.",
+    "resposta": "A Retificação do Edital PROGRAD nº 258/2026 altera apenas o Quadro 1 (critérios de avaliação dos Projetos de Ensino com monitoria), do item 3.3 [1]. Comparando o 'ONDE SE LÊ' com o 'LEIA-SE' [2][3]:\n\n- Viabilidade do projeto para o êxito acadêmico dos estudantes: peso passa de 2 para 1 [2].\n- Qualidade dos aspectos metodológicos do projeto: permanece com peso 1 [2].\n- Atendimento a grupos socialmente vulnerabilizados e/ou com necessidades especiais de aprendizado: peso passa de 2 para 3 [2][3].\n- Critério quantitativo 'Número de componentes': deixa de ser 'relacionados ao Projeto de ensino' e passa a ser 'por UA/UAE nos anos de 2024 e 2025', mantendo peso 2 [2][3].\n- Critério quantitativo 'Número de matriculados': deixa de ser 'por turma dos componentes relacionados no Projeto' e passa a ser 'por UA/UAE nos anos de 2024 e 2025', mantendo peso 3 [2][3].\n\nA nota de cada critério continua na faixa de 0,0 a 10,0 [2][3].",
+    "citacoes": [
+      {
+        "id": 1,
+        "frase": "3.3 Quadro 1 - Critérios de avaliação dos Projetos de Ensino com monitoria:"
+      },
+      {
+        "id": 2,
+        "frase": "Viabilidade do projeto para o êxito acadêmico 0,0 – 10,0 1"
+      },
+      {
+        "id": 3,
+        "frase": "Atendimento a grupos socialmente 0,0 – 10,0 3"
+      }
+    ],
+    "encontrado": true,
+    "observacao": "A retificação está assinada eletronicamente pela Pró-Reitora de Graduação em 14/05/2026 e é a versão vigente do Quadro 1; os demais itens do Edital 258/2026 não são alterados por ela. Os trechos disponíveis cobrem o Quadro 1, não eventuais outras alterações do documento.",
+    "citacoes_invalidas": 0
+  },
+  {
+    "pergunta": "Quais são as competências do CONSUNI?",
+    "modelo": "deepseek-v4.1-flash:cloud",
+    "gerado_em": "2026-11-05",
+    "recuperados": [
+      {
+        "id": "estatuto-0050",
+        "doc": "estatuto",
+        "pagina": 12,
+        "artigo": "Art. 21",
+        "secao": "SEÇÃO II",
+        "texto": "(Redação dada pela Resolução CONSUNI-CEPEC-CC/UFG\nNº 01, de 2021). IX- aprovar a proposta orçamentária da Universidade, em sessão conjunta com os\nConselhos de Ensino, Pesquisa, Extensão e Cultura e de Curadores; X- estabelecer as normas para a distribuição dos recursos financeiros da\nUniversidade entre as suas regionais; X- estabelecer as normas para a distribuição dos recursos financeiros da\nUniversidade entre os câmpus instalados na RMG, em conjunto, e aqueles\ninstalados fora da RMG e que desenvolvem atividades de ensino, pesquisa e\nextensão de forma indissociável; (Redação dada pela Resolução CONSUNI-\nCEPEC-CC/UFG Nº 01, de 2021). X-A- estabelecer modelo para a alocação de recursos financeiros entre as Unidades\nAcadêmicas e as Unidades Acadêmicas Especiais instaladas na RMG; (Incluído pela Resolução CONSUNI-CEPEC-CC/UFG Nº 01, de 2021). X-B- criar comissões de trabalho necessárias à realização de suas atribuições e\ncompetências; (Incluído pela Resolução CONSUNI-CEPEC-CC/UFG Nº 01,\nde 2021).",
+        "score": 11.063114901263154
+      },
+      {
+        "id": "estatuto-0118",
+        "doc": "estatuto",
+        "pagina": 27,
+        "artigo": "Art. 33",
+        "secao": "SEÇÃO IV",
+        "texto": "Art. 33. São atribuições do Conselho de Curadores:\nI- elaborar seu Regimento;\nII- exercer a fiscalização econômico-financeira da Universidade;\nIII- aprovar a prestação de contas da Universidade, relativa a cada exercício\nfinanceiro;\nIV- pronunciar-se sobre a criação de fundos especiais;\nV- exercer demais atribuições previstas em lei, neste Estatuto, no Regimento Geral\nda Universidade, ou estabelecidas por deliberação específica do Conselho\nUniversitário.",
+        "score": 10.801932939783303
+      },
+      {
+        "id": "regimento-0089",
+        "doc": "regimento",
+        "pagina": 19,
+        "artigo": "Art. 68",
+        "secao": "Capítulo II",
+        "texto": "XII- submeter, ao Conselho Gestor, o Plano de Gestão de seu mandato; XIII- enviar, ao Conselho Gestor e ao CONSUNI, o Relatório Anual da\nRegional; XIV- escolher e nomear os diretores de órgãos suplementares e\nadministrativos da Regional; XV- desempenhar, ainda, as atribuições que lhe são conferidas pelo\nEstatuto, por este Regimento Geral e as demais inerentes ao cargo.\n\nParágrafo único. É facultado ao Diretor da Regional delegar atribuições\nconstantes deste artigo, salvo impedimentos legais.",
+        "score": 10.795896526134193
+      },
+      {
+        "id": "estatuto-0132",
+        "doc": "estatuto",
+        "pagina": 30,
+        "artigo": "Art. 42",
+        "secao": "SEÇÃO VI",
+        "texto": "§ 1º As atribuições do Reitor serão aquelas estabelecidas em Lei e no Regimento Geral\nda Universidade.\n\n§ 2º Os Órgãos Administrativos da Universidade, bem como suas vinculações e\ncompetências, serão definidos em Resolução do Conselho Universitário e deverão possuir,\nquando necessário, sucursais nas regionais da UFG.\n§ 2º Os Órgãos Administrativos da Universidade, bem como suas vinculações e\ncompetências, serão definidos em Resolução do Conselho Universitário e deverão possuir,\nquando necessário, sucursais nos câmpus instalados fora da RMG e que desenvolvem atividades\nde ensino, pesquisa e extensão de forma indissociável. (Redação dada pela Resolução\nCONSUNI-CEPEC-CC/UFG Nº 01, de 2021).\n\n§ 3º Os Órgãos Administrativos da Universidade terão Conselhos Consultivos\nInternos, cujas composições e competências serão fixadas no Regimento Geral da\nUniversidade.",
+        "score": 10.701674089722822
+      },
+      {
+        "id": "estatuto-0047",
+        "doc": "estatuto",
+        "pagina": 11,
+        "artigo": "Art. 21",
+        "secao": "SEÇÃO II",
+        "texto": "Art. 21. O Conselho Universitário – CONSUNI – é o órgão máximo de função\nnormativa, deliberativa e de planejamento da Universidade e terá por atribuições:",
+        "score": 10.698064525769597
+      },
+      {
+        "id": "regimento-0076",
+        "doc": "regimento",
+        "pagina": 17,
+        "artigo": "Art. 56",
+        "secao": "Capítulo I",
+        "texto": "XIV- instituir comissões especiais, de caráter permanente ou\ntemporário, para o estudo de assuntos específicos;\nXV- baixar resoluções decorrentes de decisões do CONSUNI e do\nCEPEC, e portarias que julgar necessárias;\nXVI- cumprir e fazer cumprir as decisões do CONSUNI e do CEPEC;\nXVII- aplicar a integrantes do corpo discente a pena de desligamento,\naprovada pelo CEPEC;\nXVIII- submeter, ao CONSUNI, o Plano de Gestão de seu reitorado;\nXIX- enviar, ao CONSUNI, o Relatório Anual da Universidade;\nXX- desempenhar, ainda, todas as atribuições que lhe são conferidas pelo\nEstatuto, por este Regimento Geral e as demais inerentes ao cargo.\n\nParágrafo único. É facultado ao Reitor delegar atribuições constantes\ndeste artigo, salvo impedimentos legais.",
+        "score": 10.62193220316248
+      },
+      {
+        "id": "estatuto-0048",
+        "doc": "estatuto",
+        "pagina": 12,
+        "artigo": "Art. 21",
+        "secao": "SEÇÃO II",
+        "texto": "I- estabelecer as diretrizes acadêmicas e administrativas da Universidade e\nsupervisionar sua execução, em consonância com o disposto neste Estatuto e\nno Regimento Geral da Universidade; I-A- estabelecer as diretrizes acadêmicas e administrativas dos câmpus instalados\nna RMG e supervisionar sua execução, em consonância com o disposto neste\nEstatuto e no Regimento Geral da Universidade; (Incluído pela Resolução\nCONSUNI-CEPEC-CC/UFG Nº 01, de 2021). I- exercer a jurisdição superior da Universidade em matéria que não seja de\ncompetência privativa do Conselho de Ensino, Pesquisa, Extensão e Cultura\ne do Conselho de Curadores; II- aprovar, na forma da lei, modificações ao Estatuto e ao Regimento Geral da\nUniversidade, em sessão conjunta com o Conselho de Ensino, Pesquisa,\nExtensão e Cultura e com o Conselho de Curadores, especialmente convocada\npara esse fim;",
+        "score": 10.475392953926905
+      },
+      {
+        "id": "estatuto-0071",
+        "doc": "estatuto",
+        "pagina": 17,
+        "artigo": "Art. 24",
+        "secao": "SEÇÃO III",
+        "texto": "§ 1º As Câmaras Superiores Setoriais são as seguintes:\n§ 1º As Câmaras Setoriais do CEPEC são as seguintes: (Redação dada pela Resolução\nCONSUNI-CEPEC-CC/UFG Nº 01, de 2021).\nI- Câmara Superior de Graduação;\nI- Câmara de Graduação do CEPEC; (Redação dada pela Resolução CONSUNI-\nCEPEC-CC/UFG Nº 01, de 2021).\nII- Câmara Superior de Pesquisa e Pós-Graduação;\nII- Câmara de Pesquisa e Pós-Graduação do CEPEC; (Redação dada pela Resolução\nCONSUNI-CEPEC-CC/UFG Nº 01, de 2021).\nIII- Câmara Superior de Extensão e Cultura.\nIII- Câmara de Extensão e Cultura do CEPEC. (Redação dada pela Resolução\nCONSUNI-CEPEC-CC/UFG Nº 01, de 2021).\n\n§ 1º-A As Câmaras Setoriais do CEPEC, além dos assuntos de sua competência,\nrelacionados a toda a UFG, deliberará ainda, sobre assuntos específicos dos câmpus instalados\nna RMG. (Incluído pela Resolução CONSUNI-CEPEC-CC/UFG Nº 01, de 2021).",
+        "score": 10.472717485599606
+      },
+      {
+        "id": "regimento-0083",
+        "doc": "regimento",
+        "pagina": 18,
+        "artigo": "Art. 63",
+        "secao": "Seção V",
+        "texto": "Art. 63. Cabe aos Órgãos Administrativos encarregar-se das atividades\nde suporte para o funcionamento da Universidade.\n\n§ 1º As vinculações e as competências específicas de cada Órgão\nAdministrativo serão definidas em Resolução do Conselho Universitário.\n\n§ 2º Poderão ser instaladas, nas regionais, seccionais dos Órgãos\nAdministrativos da UFG.",
+        "score": 9.132513550222676
+      },
+      {
+        "id": "pos-0032",
+        "doc": "pos",
+        "pagina": 8,
+        "artigo": "Art. 19",
+        "secao": "Seção II",
+        "texto": "XVII- apreciar e aprovar pedidos de credenciamento, recredenciamento e\ndescredenciamento de docentes do PPG; XVIII- deliberar sobre pedido de discentes para tratamento excepcional e\npara cancelamento de matrícula em disciplina nos casos previstos nas\nnormas em vigor; XIX- deliberar sobre proposta de cancelamento de oferta de disciplina no\nPPG; XX- apreciar e aprovar o relatório anual das atividades do PPG; XXI- apreciar e aprovar convênios de interesse do PPG; XXII- reexaminar, em grau de recurso, as decisões do(a) coordenador(a); XXIII- elaborar o calendário de atividades do PPG; XXIV-deliberar sobre as apreciações realizadas pelas Comissões do PPG; XXV- acompanhar e normatizar as atividades de integração entre a Pós-\nGraduação e outros níveis de ensino.\n\n§ 1º A CPG poderá delegar atribuições e competências às comissões, à\nexceção dos incisos I, II, IX, XII, XIII, XIV, XXI.",
+        "score": 8.988563847246487
+      }
+    ],
+    "contexto": "[1] Estatuto da UFG · Art. 21 · p. 12\n(Redação dada pela Resolução CONSUNI-CEPEC-CC/UFG\nNº 01, de 2021). IX- aprovar a proposta orçamentária da Universidade, em sessão conjunta com os\nConselhos de Ensino, Pesquisa, Extensão e Cultura e de Curadores; X- estabelecer as normas para a distribuição dos recursos financeiros da\nUniversidade entre as suas regionais; X- estabelecer as normas para a distribuição dos recursos financeiros da\nUniversidade entre os câmpus instalados na RMG, em conjunto, e aqueles\ninstalados fora da RMG e que desenvolvem atividades de ensino, pesquisa e\nextensão de forma indissociável; (Redação dada pela Resolução CONSUNI-\nCEPEC-CC/UFG Nº 01, de 2021). X-A- estabelecer modelo para a alocação de recursos financeiros entre as Unidades\nAcadêmicas e as Unidades Acadêmicas Especiais instaladas na RMG; (Incluído pela Resolução CONSUNI-CEPEC-CC/UFG Nº 01, de 2021). X-B- criar comissões de trabalho necessárias à realização de suas atribuições e\ncompetências; (Incluído pela Resolução CONSUNI-CEPEC-CC/UFG Nº 01,\nde 2021).\n\n---\n\n[2] Estatuto da UFG · Art. 33 · p. 27\nArt. 33. São atribuições do Conselho de Curadores:\nI- elaborar seu Regimento;\nII- exercer a fiscalização econômico-financeira da Universidade;\nIII- aprovar a prestação de contas da Universidade, relativa a cada exercício\nfinanceiro;\nIV- pronunciar-se sobre a criação de fundos especiais;\nV- exercer demais atribuições previstas em lei, neste Estatuto, no Regimento Geral\nda Universidade, ou estabelecidas por deliberação específica do Conselho\nUniversitário.\n\n---\n\n[3] Regimento Geral da UFG · Art. 68 · p. 19\nXII- submeter, ao Conselho Gestor, o Plano de Gestão de seu mandato; XIII- enviar, ao Conselho Gestor e ao CONSUNI, o Relatório Anual da\nRegional; XIV- escolher e nomear os diretores de órgãos suplementares e\nadministrativos da Regional; XV- desempenhar, ainda, as atribuições que lhe são conferidas pelo\nEstatuto, por este Regimento Geral e as demais inerentes ao cargo.\n\nParágrafo único. É facultado ao Diretor da Regional delegar atribuições\nconstantes deste artigo, salvo impedimentos legais.\n\n---\n\n[4] Estatuto da UFG · Art. 42 · p. 30\n§ 1º As atribuições do Reitor serão aquelas estabelecidas em Lei e no Regimento Geral\nda Universidade.\n\n§ 2º Os Órgãos Administrativos da Universidade, bem como suas vinculações e\ncompetências, serão definidos em Resolução do Conselho Universitário e deverão possuir,\nquando necessário, sucursais nas regionais da UFG.\n§ 2º Os Órgãos Administrativos da Universidade, bem como suas vinculações e\ncompetências, serão definidos em Resolução do Conselho Universitário e deverão possuir,\nquando necessário, sucursais nos câmpus instalados fora da RMG e que desenvolvem atividades\nde ensino, pesquisa e extensão de forma indissociável. (Redação dada pela Resolução\nCONSUNI-CEPEC-CC/UFG Nº 01, de 2021).\n\n§ 3º Os Órgãos Administrativos da Universidade terão Conselhos Consultivos\nInternos, cujas composições e competências serão fixadas no Regimento Geral da\nUniversidade.\n\n---\n\n[5] Estatuto da UFG · Art. 21 · p. 11\nArt. 21. O Conselho Universitário – CONSUNI – é o órgão máximo de função\nnormativa, deliberativa e de planejamento da Universidade e terá por atribuições:\n\n---\n\n[6] Regimento Geral da UFG · Art. 56 · p. 17\nXIV- instituir comissões especiais, de caráter permanente ou\ntemporário, para o estudo de assuntos específicos;\nXV- baixar resoluções decorrentes de decisões do CONSUNI e do\nCEPEC, e portarias que julgar necessárias;\nXVI- cumprir e fazer cumprir as decisões do CONSUNI e do CEPEC;\nXVII- aplicar a integrantes do corpo discente a pena de desligamento,\naprovada pelo CEPEC;\nXVIII- submeter, ao CONSUNI, o Plano de Gestão de seu reitorado;\nXIX- enviar, ao CONSUNI, o Relatório Anual da Universidade;\nXX- desempenhar, ainda, todas as atribuições que lhe são conferidas pelo\nEstatuto, por este Regimento Geral e as demais inerentes ao cargo.\n\nParágrafo único. É facultado ao Reitor delegar atribuições constantes\ndeste artigo, salvo impedimentos legais.\n\n---\n\n[7] Estatuto da UFG · Art. 21 · p. 12\nI- estabelecer as diretrizes acadêmicas e administrativas da Universidade e\nsupervisionar sua execução, em consonância com o disposto neste Estatuto e\nno Regimento Geral da Universidade; I-A- estabelecer as diretrizes acadêmicas e administrativas dos câmpus instalados\nna RMG e supervisionar sua execução, em consonância com o disposto neste\nEstatuto e no Regimento Geral da Universidade; (Incluído pela Resolução\nCONSUNI-CEPEC-CC/UFG Nº 01, de 2021). I- exercer a jurisdição superior da Universidade em matéria que não seja de\ncompetência privativa do Conselho de Ensino, Pesquisa, Extensão e Cultura\ne do Conselho de Curadores; II- aprovar, na forma da lei, modificações ao Estatuto e ao Regimento Geral da\nUniversidade, em sessão conjunta com o Conselho de Ensino, Pesquisa,\nExtensão e Cultura e com o Conselho de Curadores, especialmente convocada\npara esse fim;\n\n---\n\n[8] Estatuto da UFG · Art. 24 · p. 17\n§ 1º As Câmaras Superiores Setoriais são as seguintes:\n§ 1º As Câmaras Setoriais do CEPEC são as seguintes: (Redação dada pela Resolução\nCONSUNI-CEPEC-CC/UFG Nº 01, de 2021).\nI- Câmara Superior de Graduação;\nI- Câmara de Graduação do CEPEC; (Redação dada pela Resolução CONSUNI-\nCEPEC-CC/UFG Nº 01, de 2021).\nII- Câmara Superior de Pesquisa e Pós-Graduação;\nII- Câmara de Pesquisa e Pós-Graduação do CEPEC; (Redação dada pela Resolução\nCONSUNI-CEPEC-CC/UFG Nº 01, de 2021).\nIII- Câmara Superior de Extensão e Cultura.\nIII- Câmara de Extensão e Cultura do CEPEC. (Redação dada pela Resolução\nCONSUNI-CEPEC-CC/UFG Nº 01, de 2021).\n\n§ 1º-A As Câmaras Setoriais do CEPEC, além dos assuntos de sua competência,\nrelacionados a toda a UFG, deliberará ainda, sobre assuntos específicos dos câmpus instalados\nna RMG. (Incluído pela Resolução CONSUNI-CEPEC-CC/UFG Nº 01, de 2021).\n\n---\n\n[9] Regimento Geral da UFG · Art. 63 · p. 18\nArt. 63. Cabe aos Órgãos Administrativos encarregar-se das atividades\nde suporte para o funcionamento da Universidade.\n\n§ 1º As vinculações e as competências específicas de cada Órgão\nAdministrativo serão definidas em Resolução do Conselho Universitário.\n\n§ 2º Poderão ser instaladas, nas regionais, seccionais dos Órgãos\nAdministrativos da UFG.\n\n---\n\n[10] Regulamento Geral dos Programas de Pós-Graduação Stricto Sensu · Art. 19 · p. 8\nXVII- apreciar e aprovar pedidos de credenciamento, recredenciamento e\ndescredenciamento de docentes do PPG; XVIII- deliberar sobre pedido de discentes para tratamento excepcional e\npara cancelamento de matrícula em disciplina nos casos previstos nas\nnormas em vigor; XIX- deliberar sobre proposta de cancelamento de oferta de disciplina no\nPPG; XX- apreciar e aprovar o relatório anual das atividades do PPG; XXI- apreciar e aprovar convênios de interesse do PPG; XXII- reexaminar, em grau de recurso, as decisões do(a) coordenador(a); XXIII- elaborar o calendário de atividades do PPG; XXIV-deliberar sobre as apreciações realizadas pelas Comissões do PPG; XXV- acompanhar e normatizar as atividades de integração entre a Pós-\nGraduação e outros níveis de ensino.\n\n§ 1º A CPG poderá delegar atribuições e competências às comissões, à\nexceção dos incisos I, II, IX, XII, XIII, XIV, XXI.",
+    "resposta": "O Conselho Universitário (CONSUNI) é o órgão máximo de função normativa, deliberativa e de planejamento da Universidade [5]. Entre as atribuições do Art. 21 do Estatuto que aparecem nos trechos estão: estabelecer as diretrizes acadêmicas e administrativas da Universidade e supervisionar sua execução, inclusive quanto aos câmpus instalados na RMG [7]; exercer a jurisdição superior da Universidade em matéria que não seja de competência privativa do CEPEC e do Conselho de Curadores [7]; aprovar, na forma da lei, modificações ao Estatuto e ao Regimento Geral, em sessão conjunta com o CEPEC e o Conselho de Curadores [7]; aprovar a proposta orçamentária da Universidade em sessão conjunta com os Conselhos de Ensino, Pesquisa, Extensão e Cultura e de Curadores [1]; estabelecer normas para a distribuição dos recursos financeiros entre as regionais e entre os câmpus da RMG e os de fora da RMG [1]; estabelecer modelo para a alocação de recursos financeiros entre Unidades Acadêmicas e Unidades Acadêmicas Especiais instaladas na RMG [1]; e criar comissões de trabalho necessárias à realização de suas atribuições [1]. Os trechos recuperados trazem apenas parte dos incisos do Art. 21; a lista completa das competências do CONSUNI está nesse artigo do Estatuto [5].",
+    "citacoes": [
+      {
+        "id": 5,
+        "frase": "O Conselho Universitário – CONSUNI – é o órgão máximo de função normativa, deliberativa e de planejamento da Universidade e terá por atribuições"
+      },
+      {
+        "id": 7,
+        "frase": "I- estabelecer as diretrizes acadêmicas e administrativas da Universidade e supervisionar sua execução"
+      },
+      {
+        "id": 1,
+        "frase": "IX- aprovar a proposta orçamentária da Universidade, em sessão conjunta com os Conselhos de Ensino, Pesquisa, Extensão e Cultura e de Curadores"
+      }
+    ],
+    "encontrado": true,
+    "observacao": "A lista está incompleta: os trechos cobrem apenas parte dos incisos do Art. 21 do Estatuto, que concentra as atribuições do CONSUNI — a relação integral deve ser consultada no próprio artigo. Vários dispositivos citados estão com redação dada pela Resolução CONSUNI-CEPEC-CC/UFG Nº 01, de 2021, que é a versão vigente. No trecho [7] a numeração aparece repetida (dois incisos 'I-'), como consta do texto recuperado; não foi possível confirmar a renumeração pelo material disponível. Os trechos [2] e [3] tratam, respectivamente, do Conselho de Curadores e do Diretor de Regional, não do CONSUNI.",
+    "citacoes_invalidas": 0
+  },
+  {
+    "pergunta": "Qual o horário de funcionamento da Biblioteca Central?",
+    "modelo": "deepseek-v4.1-flash:cloud",
+    "gerado_em": "2026-11-05",
+    "recuperados": [
+      {
+        "id": "pdi-0202",
+        "doc": "pdi",
+        "pagina": 102,
+        "artigo": "",
+        "secao": "6.2.2 Plano de Atualização do Acervo",
+        "texto": "As oito unidades do Sibi são: Biblioteca Central (BC), Biblioteca Câmpus Colemar\nNatal e Silva (BSCAN), Biblioteca Câmpus Aparecida de Goiânia (BSCAP), Biblioteca\nCentro de Ensino e Pesquisa Aplicados à Educação (BSCepae), Biblioteca Câmpus Goiás\n(BSCGO), Biblioteca da Humanidades (BSHU), Biblioteca Letras e Linguística (BSLL) e\nBiblioteca Museu Antropológico (BSMA).\nA localização, o horário de funcionamento e informações adicionais sobre cada\nunidade podem ser encontrados no Apêndice 7.\n\n6.2.2 Plano de Atualização do Acervo\n\nO Plano de Atualização do Acervo apresenta uma diretriz para formação e atualização\ndo acervo e na UFG é desenvolvido por meio da “Política de Desenvolvimento de Coleções",
+        "score": 19.084283526671584
+      },
+      {
+        "id": "pdi-0200",
+        "doc": "pdi",
+        "pagina": 101,
+        "artigo": "",
+        "secao": "6.2 Sistema de Bibliotecas",
+        "texto": "Deste modo, busca-se incluir os estudantes e servidores, na condição de pessoa com\ndeficiência, ou com mobilidade reduzida, em todas as condições de utilização necessárias à\nsua necessidade. Para isso, a instituição propõe garantir acessibilidade para além das\nnormativas técnicas previstas na ABNT NBR 9050/2020, através da consulta direta aos\nestudantes e servidores que necessitam ser incluídos, de modo a compreender suas reais\nnecessidades e pautá-las nos projetos desenvolvidos pela Universidade, a fim de proporcionar\ncondições de acessibilidade física real para todos os usuários, sem abrir mão do rigor técnico. Os projetos de ampliação e reforma deverão pautar a acessibilidade como ponto base\nna concepção inicial e serão previstos no planejamento orçamentário da instituição, cuja\nexecução dependerá da realidade orçamentária vigente.\n\n6.2 Sistema de Bibliotecas\n\nO Sistema de Bibliotecas Sibi/UFG é composto por oito unidades, sendo uma central\ne sete setoriais, e oferece diversos serviços, alguns deles restritos à comunidade da UFG",
+        "score": 8.433039886399769
+      },
+      {
+        "id": "pdi-0016",
+        "doc": "pdi",
+        "pagina": 12,
+        "artigo": "",
+        "secao": "LISTA DE SIGLAS E ABREVIATURAS",
+        "texto": "LISTA DE SIGLAS E ABREVIATURAS\n\nAAS Programa de Pós-Graduação em Assistência e Avaliação em Saúde\n\nACE Programa de Pós-Graduação em Artes da Cena\n\nACV Programa de Pós-Graduação em Arte e Cultura Visual\n\nADM Programa de Pós-Graduação em Administração\n\nAGR Programa de Pós-Graduação em Agronegócio\n\nAGRG Programa de Pós-Graduação em Agronomia\n\nAPP Programa de Pós-Graduação em Administração Pública - Profiap\n\nASO Programa de Pós-Graduação em Antropologia Social\n\nAUDIN Auditoria Interna\n\nAVA Ambiente Virtual de Aprendizagem\n\nBAN Programa de Pós-Graduação em Biodiversidade Animal\n\nBBI Programa de Pós-Graduação em Biotecnologia e Biodiversidade\n\nBC Biblioteca Central\n\nBDTD Biblioteca Digital de Teses e Dissertações\n\nBIREME Caribe de Informação em Ciências da Saúde\n\nBRPH Programa de Pós-Graduação em Biologia da Relação Parasito-Hospedeiro\n\nBSC Balanced Scorecard",
+        "score": 6.5048114366812015
+      },
+      {
+        "id": "pdi-0181",
+        "doc": "pdi",
+        "pagina": 91,
+        "artigo": "",
+        "secao": "",
+        "texto": "Assessoria Especial do Gabinete da Reitoria, Procuradoria Federal, Coordenação de\nAssuntos Administrativos do Gabinete da Reitoria, Coordenação de Agenda e\nRelacionamento do Gabinete da Reitoria, Coordenação Assessora da Chefia de Gabinete e\nCoordenação de Assuntos Institucionais. As atribuições das Secretarias, assim como das\nCoordenadorias e Assessorias Especiais, são estabelecidas pelo(a) Reitor(a) da UFG. Já os Órgãos Suplementares fornecem apoio às atividades de ensino, pesquisa e\nextensão da Universidade e possuem atribuições técnicas, culturais, desportivas, recreativas,\nassistenciais, entre outras. Atualmente (2022), a UFG possui os seguintes Órgãos\nSuplementares: Sistema de Bibliotecas (Sibi), Rádio Universitária, Museu Antropológico\n(MA), Centro Editorial e Gráfico (Cegraf), Editora UFG, Centro Integrado de Aprendizagem\nem Rede (Ciar), Unidade de Conservação (UC), Centro de Referência em Oftalmologia\n(Cerof ). Cabe aos Órgãos Administrativos encarregar-se das atividades de suporte para o\nfuncionamento da Universidade.",
+        "score": 5.4222969291761185
+      },
+      {
+        "id": "pdi-0017",
+        "doc": "pdi",
+        "pagina": 13,
+        "artigo": "",
+        "secao": "UFMS/UFG",
+        "texto": "BSCAN Biblioteca Seccional Campus Colemar Natal e Silva\n\nBSCAP Biblioteca Seccional Câmpus Aparecida de Goiânia\n\nBSCEPAE Biblioteca Seccional do Centro de Ensino e Pesquisa Aplicados à Educação\n\nBSCGO Biblioteca Seccional Câmpus Goiás\n\nBSHU Biblioteca Seccional das Humanidades\n\nBSLL Biblioteca Seccional de Letras e Linguística\n\nBSMA Biblioteca Seccional Museu Antropológico\n\nBVE Programa de Pós-Graduação em Biodiversidade Vegetal\n\nCAC Câmpus Avançado de Catalão\n\nCAJ Câmpus Avançado de Jataí\n\nCAM Programa de Pós-Graduação em Ciências Ambientais\n\nCAN Programa de Pós-Graduação em Ciência Animal\n\nCAPES Coordenação de Aperfeiçoamento de Pessoal de Nível Superior\n\nCBI Programa de Pós-Graduação em Ciências Biológicas\n\nCCAIS Comissões Coordenadoras das Atividades de Interação com a Sociedade\n\nCCEP Conselho Coordenador de Ensino e Pesquisa\n\nCCO Programa de Pós-Graduação em Ciência da Computação\n\nCCOC Programa de Pós-Graduação em Ciência Da Computação - Conv.\nUFMS/UFG",
+        "score": 5.397965873759483
+      },
+      {
+        "id": "regimento-0020",
+        "doc": "regimento",
+        "pagina": 7,
+        "artigo": "Art. 5",
+        "secao": "DA UNIDADE ESPECÍFICA QUE OFERECERÁ A EDUCAÇÃO BÁSICA",
+        "texto": "Capítulo I\nDos Conselhos Deliberativos Centrais\n\nSeção I\nDo Conselho Universitário (CONSUNI)",
+        "score": 5.3441630175514865
+      },
+      {
+        "id": "pdi-0203",
+        "doc": "pdi",
+        "pagina": 103,
+        "artigo": "",
+        "secao": "6.2.2.2 Evolução do acervo",
+        "texto": "do Sistema de Bibliotecas da Universidade Federal de Goiás (Sibi/UFG)”, que tem por\nobjetivo geral definir critérios para seleção, aquisição, avaliação e descarte dos materiais que\nfarão parte do acervo das bibliotecas do Sibi/UFG.\nO Apêndice 8 apresenta a quantidade de títulos e exemplares de livros e periódicos\nimpressos que compõem o acervo das bibliotecas do Sibi/UFG por área de conhecimento.\nO acervo está informatizado pelo software gerenciador de bibliotecas SophiA\nBiblioteca. A biblioteca disponibiliza terminais de pesquisa com acesso à internet, para\nfacilitar o acesso aos recursos informacionais. Além disso, conta ainda com acesso livre e\ngratuito do Portal de Periódicos da Capes nos CIADs ou via Eduroam.\n\n6.2.2.1 Aquisição de acervo\n\nTabela 6 - Aquisição de acervo de 2018 a 2022\nAno referente à compra\n2018 2019 2020 2021 2022\nR$ 37.822,883 8 R$ 0,00 R$ 0,00 R$ 50.000,004\nValor total R$ 87.822,88\nFonte: Sibi/UFG",
+        "score": 5.272243593162616
+      },
+      {
+        "id": "estatuto-0016",
+        "doc": "estatuto",
+        "pagina": 5,
+        "artigo": "Art. 7",
+        "secao": "DA ESTRUTURA ACADÊMICA E ADMINISTRATIVA",
+        "texto": "Art. 7º A UFG estrutura-se da seguinte forma:\nI- Administração Central da Universidade;\nII- Regionais da UFG e seus câmpus;\nII- os câmpus da Universidade; (Redação dada pela Resolução CONSUNI-CEPEC-\nCC/UFG Nº 01, de 2021).\nIII- Unidades Acadêmicas e Unidades Acadêmicas Especiais.\n\n§ 1º Os câmpus da Universidade podem desenvolver atividades de ensino, pesquisa e\nextensão de forma indissociável ou podem desenvolver apenas parte deste tripé. (Incluído pela\nResolução CONSUNI-CEPEC-CC/UFG Nº 01, de 2021).\n\n§ 2º Os câmpus instalados na Região Metropolitana de Goiânia (RMG) ou fora da\nRMG que desenvolverem atividades de ensino, pesquisa e extensão de forma indissociável\nterão estrutura e funcionamento conforme estabelecido neste Estatuto. (Incluído pela Resolução\nCONSUNI-CEPEC-CC/UFG Nº 01, de 2021).",
+        "score": 5.013771727411981
+      },
+      {
+        "id": "estatuto-0017",
+        "doc": "estatuto",
+        "pagina": 5,
+        "artigo": "Art. 7",
+        "secao": "DA ESTRUTURA ACADÊMICA E ADMINISTRATIVA",
+        "texto": "§ 3º Os câmpus da Universidade que desenvolvem apenas parte do tripé, ensino,\npesquisa e extensão, suas estruturas e funcionamento, serão estabelecidos por resoluções\nespecíficas do Conselho Universitário. (Incluído pela Resolução CONSUNI-CEPEC-CC/UFG\nNº 01, de 2021).",
+        "score": 4.990410761459017
+      },
+      {
+        "id": "rgcg-0091",
+        "doc": "rgcg",
+        "pagina": 19,
+        "artigo": "Art. 64",
+        "secao": "",
+        "texto": "III - ingresso em estágio obrigatório ou não obrigatório superveniente à\ninscrição na disciplina ou no eixo temático/módulo, cujo horário de\natividades seja incompatível com o horário de aulas da disciplina\nou do eixo temático/módulo; IV - obtenção de bolsa institucional oferecida pela UFG superveniente à\ninscrição na disciplina ou no eixo temático/módulo, cujo horário de\natividades seja incompatível com o horário de aulas da disciplina\nou do eixo temático/módulo; V - alteração de horário da disciplina ou do eixo temático/módulo pela\ncoordenadoria de curso que impossibilite o estudante de continuar a\nfrequentá-la; VI - por erro, omissão ou fato interno à UFG que, de alguma forma,\ntenha prejudicado o estudante na disciplina ou no eixo\ntemático/módulo.",
+        "score": 4.744561056897946
+      }
+    ],
+    "contexto": "[1] Plano de Desenvolvimento Institucional (PDI 2023–2027) · p. 102\nAs oito unidades do Sibi são: Biblioteca Central (BC), Biblioteca Câmpus Colemar\nNatal e Silva (BSCAN), Biblioteca Câmpus Aparecida de Goiânia (BSCAP), Biblioteca\nCentro de Ensino e Pesquisa Aplicados à Educação (BSCepae), Biblioteca Câmpus Goiás\n(BSCGO), Biblioteca da Humanidades (BSHU), Biblioteca Letras e Linguística (BSLL) e\nBiblioteca Museu Antropológico (BSMA).\nA localização, o horário de funcionamento e informações adicionais sobre cada\nunidade podem ser encontrados no Apêndice 7.\n\n6.2.2 Plano de Atualização do Acervo\n\nO Plano de Atualização do Acervo apresenta uma diretriz para formação e atualização\ndo acervo e na UFG é desenvolvido por meio da “Política de Desenvolvimento de Coleções\n\n---\n\n[2] Plano de Desenvolvimento Institucional (PDI 2023–2027) · p. 101\nDeste modo, busca-se incluir os estudantes e servidores, na condição de pessoa com\ndeficiência, ou com mobilidade reduzida, em todas as condições de utilização necessárias à\nsua necessidade. Para isso, a instituição propõe garantir acessibilidade para além das\nnormativas técnicas previstas na ABNT NBR 9050/2020, através da consulta direta aos\nestudantes e servidores que necessitam ser incluídos, de modo a compreender suas reais\nnecessidades e pautá-las nos projetos desenvolvidos pela Universidade, a fim de proporcionar\ncondições de acessibilidade física real para todos os usuários, sem abrir mão do rigor técnico. Os projetos de ampliação e reforma deverão pautar a acessibilidade como ponto base\nna concepção inicial e serão previstos no planejamento orçamentário da instituição, cuja\nexecução dependerá da realidade orçamentária vigente.\n\n6.2 Sistema de Bibliotecas\n\nO Sistema de Bibliotecas Sibi/UFG é composto por oito unidades, sendo uma central\ne sete setoriais, e oferece diversos serviços, alguns deles restritos à comunidade da UFG\n\n---\n\n[3] Plano de Desenvolvimento Institucional (PDI 2023–2027) · p. 12\nLISTA DE SIGLAS E ABREVIATURAS\n\nAAS Programa de Pós-Graduação em Assistência e Avaliação em Saúde\n\nACE Programa de Pós-Graduação em Artes da Cena\n\nACV Programa de Pós-Graduação em Arte e Cultura Visual\n\nADM Programa de Pós-Graduação em Administração\n\nAGR Programa de Pós-Graduação em Agronegócio\n\nAGRG Programa de Pós-Graduação em Agronomia\n\nAPP Programa de Pós-Graduação em Administração Pública - Profiap\n\nASO Programa de Pós-Graduação em Antropologia Social\n\nAUDIN Auditoria Interna\n\nAVA Ambiente Virtual de Aprendizagem\n\nBAN Programa de Pós-Graduação em Biodiversidade Animal\n\nBBI Programa de Pós-Graduação em Biotecnologia e Biodiversidade\n\nBC Biblioteca Central\n\nBDTD Biblioteca Digital de Teses e Dissertações\n\nBIREME Caribe de Informação em Ciências da Saúde\n\nBRPH Programa de Pós-Graduação em Biologia da Relação Parasito-Hospedeiro\n\nBSC Balanced Scorecard\n\n---\n\n[4] Plano de Desenvolvimento Institucional (PDI 2023–2027) · p. 91\nAssessoria Especial do Gabinete da Reitoria, Procuradoria Federal, Coordenação de\nAssuntos Administrativos do Gabinete da Reitoria, Coordenação de Agenda e\nRelacionamento do Gabinete da Reitoria, Coordenação Assessora da Chefia de Gabinete e\nCoordenação de Assuntos Institucionais. As atribuições das Secretarias, assim como das\nCoordenadorias e Assessorias Especiais, são estabelecidas pelo(a) Reitor(a) da UFG. Já os Órgãos Suplementares fornecem apoio às atividades de ensino, pesquisa e\nextensão da Universidade e possuem atribuições técnicas, culturais, desportivas, recreativas,\nassistenciais, entre outras. Atualmente (2022), a UFG possui os seguintes Órgãos\nSuplementares: Sistema de Bibliotecas (Sibi), Rádio Universitária, Museu Antropológico\n(MA), Centro Editorial e Gráfico (Cegraf), Editora UFG, Centro Integrado de Aprendizagem\nem Rede (Ciar), Unidade de Conservação (UC), Centro de Referência em Oftalmologia\n(Cerof ). Cabe aos Órgãos Administrativos encarregar-se das atividades de suporte para o\nfuncionamento da Universidade.\n\n---\n\n[5] Plano de Desenvolvimento Institucional (PDI 2023–2027) · p. 13\nBSCAN Biblioteca Seccional Campus Colemar Natal e Silva\n\nBSCAP Biblioteca Seccional Câmpus Aparecida de Goiânia\n\nBSCEPAE Biblioteca Seccional do Centro de Ensino e Pesquisa Aplicados à Educação\n\nBSCGO Biblioteca Seccional Câmpus Goiás\n\nBSHU Biblioteca Seccional das Humanidades\n\nBSLL Biblioteca Seccional de Letras e Linguística\n\nBSMA Biblioteca Seccional Museu Antropológico\n\nBVE Programa de Pós-Graduação em Biodiversidade Vegetal\n\nCAC Câmpus Avançado de Catalão\n\nCAJ Câmpus Avançado de Jataí\n\nCAM Programa de Pós-Graduação em Ciências Ambientais\n\nCAN Programa de Pós-Graduação em Ciência Animal\n\nCAPES Coordenação de Aperfeiçoamento de Pessoal de Nível Superior\n\nCBI Programa de Pós-Graduação em Ciências Biológicas\n\nCCAIS Comissões Coordenadoras das Atividades de Interação com a Sociedade\n\nCCEP Conselho Coordenador de Ensino e Pesquisa\n\nCCO Programa de Pós-Graduação em Ciência da Computação\n\nCCOC Programa de Pós-Graduação em Ciência Da Computação - Conv.\nUFMS/UFG\n\n---\n\n[6] Regimento Geral da UFG · Art. 5 · p. 7\nCapítulo I\nDos Conselhos Deliberativos Centrais\n\nSeção I\nDo Conselho Universitário (CONSUNI)\n\n---\n\n[7] Plano de Desenvolvimento Institucional (PDI 2023–2027) · p. 103\ndo Sistema de Bibliotecas da Universidade Federal de Goiás (Sibi/UFG)”, que tem por\nobjetivo geral definir critérios para seleção, aquisição, avaliação e descarte dos materiais que\nfarão parte do acervo das bibliotecas do Sibi/UFG.\nO Apêndice 8 apresenta a quantidade de títulos e exemplares de livros e periódicos\nimpressos que compõem o acervo das bibliotecas do Sibi/UFG por área de conhecimento.\nO acervo está informatizado pelo software gerenciador de bibliotecas SophiA\nBiblioteca. A biblioteca disponibiliza terminais de pesquisa com acesso à internet, para\nfacilitar o acesso aos recursos informacionais. Além disso, conta ainda com acesso livre e\ngratuito do Portal de Periódicos da Capes nos CIADs ou via Eduroam.\n\n6.2.2.1 Aquisição de acervo\n\nTabela 6 - Aquisição de acervo de 2018 a 2022\nAno referente à compra\n2018 2019 2020 2021 2022\nR$ 37.822,883 8 R$ 0,00 R$ 0,00 R$ 50.000,004\nValor total R$ 87.822,88\nFonte: Sibi/UFG\n\n---\n\n[8] Estatuto da UFG · Art. 7 · p. 5\nArt. 7º A UFG estrutura-se da seguinte forma:\nI- Administração Central da Universidade;\nII- Regionais da UFG e seus câmpus;\nII- os câmpus da Universidade; (Redação dada pela Resolução CONSUNI-CEPEC-\nCC/UFG Nº 01, de 2021).\nIII- Unidades Acadêmicas e Unidades Acadêmicas Especiais.\n\n§ 1º Os câmpus da Universidade podem desenvolver atividades de ensino, pesquisa e\nextensão de forma indissociável ou podem desenvolver apenas parte deste tripé. (Incluído pela\nResolução CONSUNI-CEPEC-CC/UFG Nº 01, de 2021).\n\n§ 2º Os câmpus instalados na Região Metropolitana de Goiânia (RMG) ou fora da\nRMG que desenvolverem atividades de ensino, pesquisa e extensão de forma indissociável\nterão estrutura e funcionamento conforme estabelecido neste Estatuto. (Incluído pela Resolução\nCONSUNI-CEPEC-CC/UFG Nº 01, de 2021).\n\n---\n\n[9] Estatuto da UFG · Art. 7 · p. 5\n§ 3º Os câmpus da Universidade que desenvolvem apenas parte do tripé, ensino,\npesquisa e extensão, suas estruturas e funcionamento, serão estabelecidos por resoluções\nespecíficas do Conselho Universitário. (Incluído pela Resolução CONSUNI-CEPEC-CC/UFG\nNº 01, de 2021).\n\n---\n\n[10] Regulamento Geral dos Cursos de Graduação (RGCG) · Art. 64 · p. 19\nIII - ingresso em estágio obrigatório ou não obrigatório superveniente à\ninscrição na disciplina ou no eixo temático/módulo, cujo horário de\natividades seja incompatível com o horário de aulas da disciplina\nou do eixo temático/módulo; IV - obtenção de bolsa institucional oferecida pela UFG superveniente à\ninscrição na disciplina ou no eixo temático/módulo, cujo horário de\natividades seja incompatível com o horário de aulas da disciplina\nou do eixo temático/módulo; V - alteração de horário da disciplina ou do eixo temático/módulo pela\ncoordenadoria de curso que impossibilite o estudante de continuar a\nfrequentá-la; VI - por erro, omissão ou fato interno à UFG que, de alguma forma,\ntenha prejudicado o estudante na disciplina ou no eixo\ntemático/módulo.",
+    "resposta": "Não encontrei o horário de funcionamento da Biblioteca Central nos trechos recuperados. O PDI informa apenas que a localização, o horário de funcionamento e informações adicionais sobre cada unidade do Sibi podem ser encontrados no Apêndice 7 [1], mas esse apêndice não está entre os trechos disponíveis. Os demais trechos tratam de outro assunto: lista das oito unidades do Sibi [1][2], siglas [3][5], órgãos suplementares [4], acervo e aquisição de material bibliográfico [7] e estrutura da UFG [8][9].",
+    "citacoes": [
+      {
+        "id": 1,
+        "frase": "A localização, o horário de funcionamento e informações adicionais sobre cada unidade podem ser encontrados no Apêndice 7."
+      }
+    ],
+    "encontrado": false,
+    "observacao": "Os trechos indicam onde está a informação (Apêndice 7 do PDI 2023–2027), mas o apêndice não foi recuperado; não há horário explícito para a Biblioteca Central.",
+    "citacoes_invalidas": 0
+  }
+]

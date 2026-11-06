@@ -1,0 +1,372 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Do documento à resposta com fonte · Denilson</title>
+<meta name="description" content="Protótipo de assistente que consulta documentos públicos da UFG, responde com o artigo e a página e admite quando não encontra. Encontro individual do Estágio Docência, LAPIG/UFG, 06/11/2026.">
+<link rel="stylesheet" href="assets/estilo.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%232f6b4f'/%3E%3Ctext x='16' y='22' font-size='16' text-anchor='middle' fill='white' font-family='Georgia'%3EU%3C/text%3E%3C/svg%3E">
+<script src="assets/config.js"></script>
+<script type="module" src="assets/app.js"></script>
+</head>
+<body>
+<nav id="nav">
+  <a href="#inicio">Início</a>
+  <a href="#pedido">O pedido</a>
+  <a href="#proposta">A proposta</a>
+  <a href="#como">Como funciona</a>
+  <a href="#prova">O que prova</a>
+  <a href="#demo">Demonstração</a>
+  <a href="#arquitetura">Arquitetura</a>
+  <a href="#riscos">Riscos</a>
+  <a href="#proximos">Próximos passos</a>
+  <a href="#pronto">O que fica pronto</a>
+</nav>
+
+<section id="inicio" class="hero">
+  <div>
+    <div class="pill">Protótipo funcionando · 8 documentos · 332 páginas</div>
+    <div class="kicker">Encontro individual · Estágio Docência · 06/11/2026</div>
+    <h1>Do documento à resposta com fonte</h1>
+    <p class="lead">Um protótipo que consulta documentos da UFG, responde com o artigo e a página e admite quando não encontra.</p>
+    <p class="meta">Denilson Silva · LAPIG/UFG · 14h–14h40</p>
+    <p class="small" style="margin-top:16px;max-width:52ch">Este material serve de apoio ao encontro de 40 minutos. O protótipo consulta 8 documentos públicos da UFG — 332 páginas, 1.159 trechos — e responde apenas a partir deles.</p>
+  </div>
+  <div class="hero-card" aria-label="Exemplo de resposta com fonte">
+    <div class="hero-q">Pergunta</div>
+    <div class="hero-a">O estágio não obrigatório pode ser aproveitado como estágio obrigatório?</div>
+    <div class="hero-q">Resposta</div>
+    <div class="hero-a">Não. O Art. 27 do Regulamento Geral dos Cursos de Graduação veda o aproveitamento do estágio não obrigatório como estágio obrigatório. O Caderno de Dúvidas da PROGRAD repete a regra.</div>
+    <div class="hero-cites">
+      <span class="cite-pill">RGCG · Art. 27 · p. 10</span>
+      <span class="cite-pill">FAQ Estágio · p. 11</span>
+    </div>
+  </div>
+</section>
+
+<section id="pedido">
+  <div class="kicker">1 · O pedido</div>
+  <h2>O pedido: a dificuldade é encontrar a regra certa e confirmar a versão que vale.</h2>
+  <p>Você atua na UFG atendendo a um volume grande de demandas e dúvidas, tanto do público interno quanto do externo. A informação necessária existe, mas está dispersa em portais, portarias, editais e documentos textuais.</p>
+  <p>Localizar uma diretriz, regra ou dado específico exige buscas manuais exaustivas em vários lugares. Esse processo consome tempo e traz o desafio de conferir se o texto consultado é a versão que realmente está em vigor.</p>
+  <p>No formulário, você indicou como resultado esperado uma proposta de arquitetura ou protótipo conceitual de chatbot que consulte e sintetize as bases de conhecimento da UFG de forma integrada. O que preparei para o encontro é uma prova pequena desse conceito, feita com documentos públicos reais, e não o sistema completo da universidade.</p>
+  <div class="form-card">
+    <div class="form-label">Resposta original ao formulário</div>
+    <div class="form-section">
+      <h4>Contexto do trabalho</h4>
+      <p>Atuo na UFG lidando com um volume grande de demandas e dúvidas do público interno e externo. O desafio central é a <mark>dispersão das informações institucionais</mark>, que ficam espalhadas em diferentes portais, portarias, editais e documentos textuais.</p>
+    </div>
+    <div class="form-section">
+      <h4>Tarefa e dificuldade</h4>
+      <p>Quero pensar em como facilitar o acesso a essa massa de informações institucionais, explorando o uso de <mark>assistentes virtuais ou chatbots</mark>. Hoje, o processo de localizar uma diretriz, regra ou dado específico exige <mark>buscas manuais exaustivas</mark> em múltiplos locais. A dificuldade está em transformar esse ecossistema de documentos descentralizados em algo fluido, onde o usuário ou a equipe consiga encontrar respostas precisas sem o atrito da busca tradicional.</p>
+    </div>
+    <div class="form-section">
+      <h4>Resultado esperado</h4>
+      <p>Uma <mark>proposta de arquitetura ou protótipo conceitual de chatbot</mark> que consiga consultar e sintetizar as bases de conhecimento da UFG de forma inteligente e integrada.</p>
+    </div>
+  </div>
+  <p class="note" style="margin-top:16px">O corpus e todos os números desta página saem dos scripts do repositório. A seção “O que fica pronto” mostra onde conferir.</p>
+</section>
+
+<section id="proposta">
+  <div class="kicker">2 · A proposta</div>
+  <h2>A proposta: respostas com artigo, página e aviso quando o dado não foi encontrado.</h2>
+  <p>Eu estruturei o protótipo sobre três princípios básicos:</p>
+  <div class="grid-3">
+    <div class="card">
+      <div class="num">1</div>
+      <h3>Responde com base nos documentos</h3>
+      <p>O modelo não usa conhecimento externo. Ele recebe um conjunto pequeno de trechos recuperados e só pode afirmar o que está ali.</p>
+    </div>
+    <div class="card">
+      <div class="num">2</div>
+      <h3>Mostra o artigo e a página</h3>
+      <p>Cada citação vira um cartão com o documento, o artigo ou a seção, a página e um botão que abre o PDF naquele ponto.</p>
+    </div>
+    <div class="card">
+      <div class="num">3</div>
+      <h3>Admite quando não encontra</h3>
+      <p>Se a resposta não está nos trechos, o assistente diz “não encontrei” e explica o que faltou. É melhor uma abstenção do que uma resposta confiante e errada.</p>
+    </div>
+  </div>
+  <p style="margin-top:20px">As respostas não chegam como resumos soltos. Cada afirmação traz uma âncora clicável que abre o PDF na página certa. Quando perguntei se o estágio não obrigatório pode ser aproveitado como estágio obrigatório, o protótipo respondeu que não e citou o Art. 27 do Regulamento Geral dos Cursos de Graduação (RGCG), na página 10, e a pergunta 12 do Caderno de Dúvidas Frequentes, na página 11.</p>
+  <p>Quando o dado procurado não consta no material carregado, o sistema avisa que não encontrou em vez de tentar adivinhar. À pergunta “Qual o horário de funcionamento da Biblioteca Central?”, ele informou que não encontrou o horário, porque o PDI apenas aponta para um apêndice ausente no corpus.</p>
+  <p>O assistente não decide a regra institucional. Ele apenas localiza o texto, cita a fonte e deixa a decisão com a pessoa responsável pelo atendimento.</p>
+  <div class="compare">
+    <div class="card">
+      <h3>Antes</h3>
+      <ul>
+        <li>Abrir vários portais e PDFs.</li>
+        <li>Procurar a palavra certa em cada documento.</li>
+        <li>Conferir se a regra ainda vale.</li>
+        <li>Montar a resposta e citar a fonte de memória.</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>Com o assistente</h3>
+      <ul>
+        <li>Uma pergunta em linguagem natural.</li>
+        <li>Poucos trechos recuperados, com documento e página.</li>
+        <li>Resposta curta, com citação clicável.</li>
+        <li>Um botão para abrir o PDF na página citada.</li>
+      </ul>
+    </div>
+  </div>
+  <div class="statement-block"><p>A resposta deixa de ser uma opinião do modelo e passa a ser uma leitura assistida dos documentos, com o caminho de volta para a fonte.</p></div>
+</section>
+
+<section id="como">
+  <div class="kicker">3 · Como funciona</div>
+  <h2>Como funciona: a busca seleciona trechos específicos para o modelo responder com fontes auditáveis.</h2>
+  <p>Eu montei a base do protótipo com 8 documentos públicos da UFG, que somam 332 páginas e 1.159 trechos: Estatuto da UFG (58 páginas), Regimento Geral (45), Regulamento Geral dos Cursos de Graduação (36), PDI 2023–2027 (141), Regulamento da Pós-Graduação (28), Caderno de Dúvidas de Estágio (14), Edital de Monitoria 258/2026 (8) e Retificação 302/2026 (2). O texto foi extraído dos PDFs e dividido em trechos que guardam o documento de origem, o artigo ou seção e a página.</p>
+  <p>A busca é lexical (BM25), com sinônimos e ajustes por tipo de pergunta. Não há embeddings nesta versão. Quando você faz uma pergunta, o sistema recupera no máximo 10 trechos numerados e passa esses trechos ao modelo junto com a pergunta. O modelo não vê o corpus inteiro.</p>
+  <p>A resposta é pedida em JSON, com o texto da resposta, os IDs dos trechos citados, um campo “encontrado” e uma observação. Em seguida, o site confere se cada citação existe no conjunto recuperado e não usa como fonte as que estão fora dele. Cada citação aceita vira um cartão com documento, artigo ou seção, página e link para o PDF naquela página.</p>
+  <p>Nos exemplos gravados, usei o modelo deepseek-v4.1-flash, da Ollama Cloud, em 05/11/2026. Na demonstração ao vivo, você pode escolher outro modelo. A chave da API é sua; o site não guarda a chave no código nem no repositório. A chamada passa por um proxy Cloudflare Worker que contorna a falta de CORS da Ollama e não registra a chave.</p>
+  <div class="flow" aria-label="Caminho da pergunta até a resposta">
+    <div class="flow-step"><span>1</span>Pergunta<small>em linguagem natural, sem palavra-chave</small></div>
+    <div class="flow-arrow">→</div>
+    <div class="flow-step"><span>2</span>Busca<small>BM25 + sinônimos + metadados</small></div>
+    <div class="flow-arrow">→</div>
+    <div class="flow-step"><span>3</span>Trechos<small>até 10, com artigo e página</small></div>
+    <div class="flow-arrow">→</div>
+    <div class="flow-step"><span>4</span>Modelo<small>resposta em JSON, com citações</small></div>
+    <div class="flow-arrow">→</div>
+    <div class="flow-step"><span>5</span>Conferência<small>citação válida + PDF na página</small></div>
+  </div>
+  <div class="table-scroll">
+  <table class="corpus-table">
+    <thead><tr><th>Documento</th><th>Tipo</th><th>Páginas</th><th>Trechos</th><th>Status</th></tr></thead>
+    <tbody id="corpus-tbody">
+      <tr><td>Estatuto da UFG</td><td>Estatuto</td><td class="num-cell">58</td><td class="num-cell">280</td><td><span class="tag">vigente</span></td></tr>
+      <tr><td>Regimento Geral da UFG</td><td>Regimento</td><td class="num-cell">45</td><td class="num-cell">238</td><td><span class="tag">vigente</span></td></tr>
+      <tr><td>Regulamento Geral dos Cursos de Graduação</td><td>Resolução</td><td class="num-cell">36</td><td class="num-cell">169</td><td><span class="tag">vigente</span></td></tr>
+      <tr><td>PDI 2023–2027</td><td>Plano</td><td class="num-cell">141</td><td class="num-cell">282</td><td><span class="tag">vigente</span></td></tr>
+      <tr><td>Regulamento da Pós-Graduação Stricto Sensu</td><td>Resolução</td><td class="num-cell">28</td><td class="num-cell">130</td><td><span class="tag">vigente</span></td></tr>
+      <tr><td>Caderno de Dúvidas Frequentes — Estágio</td><td>Material de apoio</td><td class="num-cell">14</td><td class="num-cell">19</td><td><span class="tag warn">orientação</span></td></tr>
+      <tr><td>Edital PROGRAD nº 258/2026 — Monitoria</td><td>Edital</td><td class="num-cell">8</td><td class="num-cell">38</td><td><span class="tag">vigente</span></td></tr>
+      <tr><td>Retificação do Edital 258/2026</td><td>Retificação</td><td class="num-cell">2</td><td class="num-cell">3</td><td><span class="tag blue">retificação</span></td></tr>
+    </tbody>
+  </table>
+  </div>
+  <div class="example-chunk">
+    <div class="meta-line">Exemplo de trecho · RGCG · Art. 27 · p. 10</div>
+    <p>“O estágio curricular não obrigatório não poderá ser aproveitado como estágio curricular obrigatório.”</p>
+    <p class="note">O trecho é curto de propósito: ele cabe no contexto do modelo e aponta para o artigo e a página. A resposta não precisa carregar o documento inteiro.</p>
+  </div>
+  <p class="note">A versão atual não usa embeddings. A busca lexical é simples de auditar e já resolve boa parte das perguntas com termos institucionais. A próxima camada é híbrida: lexical + semântica + reranker.</p>
+</section>
+
+<section id="prova">
+  <div class="kicker">4 · O que o protótipo prova</div>
+  <h2>O que o protótipo prova: o ciclo funciona em pequena escala, mas o teste não é independente.</h2>
+  <p>Eu escrevi 16 perguntas de teste a partir dos documentos, com a fonte esperada para cada uma. Esse teste serviu para verificar o mecanismo, mas não serve para prometer acurácia: elaborei as perguntas depois de ler os documentos e ajustei a busca com base nelas, sem usar um conjunto independente de avaliação. Os resultados da busca foram:</p>
+  <div class="tiles">
+    <div class="tile"><b>93,8%</b><span>fonte certa no 1º lugar (15/16)</span></div>
+    <div class="tile"><b>100%</b><span>fonte certa nos 3 primeiros (16/16)</span></div>
+    <div class="tile"><b>0,97</b><span>MRR da busca</span></div>
+    <div class="tile"><b>5</b><span>exemplos gravados na página</span></div>
+  </div>
+  <div class="table-scroll">
+  <table class="corpus-table">
+    <thead><tr><th>Pergunta de teste</th><th>O que ela exercita</th><th>Onde a resposta está</th></tr></thead>
+    <tbody>
+      <tr><td>Qual o valor da bolsa de monitoria?</td><td>Fato e número</td><td>Edital 258/2026 · p. 3</td></tr>
+      <tr><td>O estágio não obrigatório pode ser aproveitado como obrigatório?</td><td>Cruzar dois documentos</td><td>RGCG · Art. 27 · p. 10; FAQ · p. 11</td></tr>
+      <tr><td>O que mudou na retificação do Edital 258/2026?</td><td>Versão e vigência</td><td>Retificação 302/2026 · p. 1–2</td></tr>
+      <tr><td>Quais são as competências do CONSUNI?</td><td>Lista longa e artigo extenso</td><td>Estatuto · Art. 21 · p. 11–14</td></tr>
+      <tr><td>Qual o horário de funcionamento da Biblioteca Central?</td><td>Pergunta fora do corpus</td><td>Não encontrado; o PDI só aponta um apêndice ausente</td></tr>
+    </tbody>
+  </table>
+  <p style="margin-top:18px">O protótipo tem três controles práticos. O controle de honestidade respondeu “não encontrei” para a pergunta sobre o horário da Biblioteca Central, que não está no corpus. O controle de versão tratou a retificação do Edital 258/2026 comparando “ONDE SE LÊ” com “LEIA-SE” e citou a versão que vale. O controle de citação impede o modelo de inventar trechos: o site valida as citações recebidas e não aceita como fonte as que forem inválidas.</p>
+  <div class="caveat"><b>O que este teste não prova:</b> não é uma amostra independente, não cobre todos os tipos de documento da UFG, não tem OCR, não tem permissão por usuário e não foi avaliado com pessoas reais. Ele prova que o caminho — recuperar, responder, citar e conferir — funciona de ponta a ponta.</div>
+</section>
+
+<section id="demo">
+  <div class="kicker">5 · A demonstração</div>
+  <h2>A demonstração: você pode ver os exemplos salvos sem chave ou testar ao vivo com a sua.</h2>
+  <p class="lead">A página tem dois modos: “Exemplos gravados” e “Ao vivo com sua chave”. Nos exemplos gravados, as respostas já foram geradas pelo modelo e ficam salvas. Elas funcionam sem internet e sem chave.</p>
+  <p>No modo ao vivo, você cola a chave da Ollama Cloud, escolhe o modelo e faz a pergunta. A chave fica só no seu navegador. Se marcar “lembrar nesta aba”, o valor vai para o sessionStorage, não para o localStorage. A consulta usa um proxy Cloudflare Worker para contornar a falta de CORS da Ollama, e esse proxy também não guarda a chave.</p>
+  <div class="demo-shell">
+    <aside class="demo-side">
+      <div class="demo-tabs" role="tablist" aria-label="Modo da demonstração">
+        <button type="button" data-modo="exemplos" class="on" role="tab" aria-selected="true">Exemplos gravados</button>
+        <button type="button" data-modo="vivo" role="tab" aria-selected="false">Ao vivo com sua chave</button>
+      </div>
+      <div id="painel-exemplos">
+        <p class="mini-label">Clique numa pergunta</p>
+        <div class="examples" id="lista-exemplos"></div>
+        <p class="note" id="nota-exemplos">Respostas geradas em 05/11/2026 com deepseek-v4.1-flash e salvas na página.</p>
+      </div>
+      <div id="painel-vivo" hidden>
+        <div class="field">
+          <label for="chave">Chave da Ollama Cloud</label>
+          <input id="chave" type="password" autocomplete="off" spellcheck="false" placeholder="cole sua chave aqui">
+        </div>
+        <div class="field">
+          <label for="modelo">Modelo</label>
+          <select id="modelo"></select>
+        </div>
+        <label class="check"><input type="checkbox" id="lembrar"> lembrar a chave nesta aba</label>
+        <p class="aviso">A chave fica no seu navegador e vai só para o proxy que repassa à Ollama. Ela não é gravada no site, no repositório nem no proxy. <b>Nunca use uma chave compartilhada.</b></p>
+        <form class="form-pergunta" id="form-pergunta">
+          <label class="mini-label" for="pergunta" style="margin:2px 0 0">Sua pergunta</label>
+          <textarea id="pergunta" maxlength="500" placeholder="Ex.: Qual a nota mínima para aprovação em uma disciplina de graduação?"></textarea>
+          <button class="btn" type="submit" id="btn-perguntar">Perguntar</button>
+        </form>
+        <div class="status-live" id="status-live" role="status"></div>
+        <p class="aviso" id="aviso-proxy" hidden></p>
+      </div>
+      <p class="note" style="margin-top:12px">A busca roda no seu navegador. No modo ao vivo, só a pergunta e os trechos recuperados vão para o modelo.</p>
+    </aside>
+    <div class="demo-main">
+      <div class="demo-empty" id="demo-vazio">
+        <b>Escolha uma pergunta ao lado.</b>
+        A resposta aparece com as fontes, o artigo e a página. Você pode abrir o PDF no ponto citado e ver os trechos que o modelo recebeu.
+      </div>
+      <div id="demo-resultado" hidden>
+        <div class="pergunta-card"><span>Pergunta</span><div id="demo-pergunta"></div></div>
+        <div class="resposta-card" id="demo-resposta-card">
+          <div class="rotulo" id="demo-rotulo">Resposta</div>
+          <div class="resposta" id="demo-resposta" aria-live="polite"></div>
+          <div id="demo-observacao"></div>
+        </div>
+        <div class="conferencia" id="demo-conferencia"></div>
+        <div class="fontes" id="demo-fontes"></div>
+        <details class="montagem" id="demo-montagem">
+          <summary>Como a resposta foi montada</summary>
+          <p class="note" id="demo-montagem-nota"></p>
+          <pre id="demo-contexto"></pre>
+        </details>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="arquitetura">
+  <div class="kicker">6 · Arquitetura para a UFG</div>
+  <h2>O chatbot é a ponta: o trabalho na UFG está na curadoria, nas versões e nas permissões.</h2>
+  <p>Eu montei o protótipo como uma prova de conceito local, com 8 PDFs públicos, busca lexical, um modelo de linguagem e citações nas respostas. Ele serve para demonstrar a interação, mas tem escopo restrito.</p>
+  <p>O chatbot é apenas a ponta do sistema. O trabalho central para a universidade está na curadoria, no controle de versão e nas regras de permissão. A mudança do protótipo para um ambiente de produção exige requisitos ausentes no teste local: autenticação, permissões, atualização automática, OCR, testes com usuários, monitoramento e um conjunto de avaliação independente.</p>
+  <div class="arch">
+    <div class="arch-row"><div class="arch-label">1 · Ingestão</div><div><p>Conectores para portais, SEI, Google Drive e pastas departamentais; extração de PDF, HTML e DOCX; OCR para digitalizados; metadados de órgão, tipo, data, vigência, público e permissão.</p><p>No protótipo: 8 PDFs baixados à mão, texto extraído com pdftotext, corte por artigo ou página.</p></div></div>
+    <div class="arch-row"><div class="arch-label">2 · Índice</div><div><p>Busca lexical e semântica, reranker, corte por artigo ou seção, versão vigente e marcação de documento revogado ou retificado.</p><p>No protótipo: BM25 com sinônimos; o metadado de artigo e página é o que permite a citação exata.</p></div></div>
+    <div class="arch-row"><div class="arch-label">3 · Orquestração</div><div><p>O modelo recebe poucos trechos, responde com citações, o sistema valida as citações e devolve “não encontrei” quando não há base. Cache para perguntas frequentes.</p><p>No protótipo: uma chamada por pergunta, resposta em JSON, validação das citações no navegador.</p></div></div>
+    <div class="arch-row"><div class="arch-label">4 · Interface</div><div><p>Chat, cartão de fonte, visualizador do PDF na página, feedback e histórico. A fonte faz parte da resposta.</p><p>No protótipo: página única, exemplos gravados, modo ao vivo, PDF no ponto citado.</p></div></div>
+    <div class="arch-row"><div class="arch-label">5 · Governança</div><div><p>Cada coleção tem um dono; curadoria humana; SSO e permissão por documento; LGPD; logs de auditoria; avaliação contínua.</p><p>No protótipo: nenhuma permissão, nenhum dado pessoal, nenhum log persistente. É de propósito.</p></div></div>
+  </div>
+  <p class="note">O que muda do protótipo para produção: autenticação, permissões, atualização automática, OCR, testes com usuários, monitoramento e um conjunto de avaliação independente. O modelo pode ser o mesmo; o que muda é o que ele pode ver e como a resposta é conferida.</p>
+</section>
+
+<section id="riscos">
+  <div class="kicker">7 · Riscos e limites</div>
+  <h2>Os riscos têm mitigação, e a atenção maior fica em documento desatualizado ou restrito.</h2>
+  <p>Os riscos de adotar o sistema na universidade são conhecidos e têm mitigação. O maior perigo é responder com confiança sobre documento velho ou fora de permissão. Hoje, o protótipo não tem OCR, não tem permissão, não tem avaliação com usuários e não está integrado ao SEI.</p>
+  <div class="table-scroll">
+  <table class="risk-table">
+    <thead><tr><th>Risco</th><th>Mitigação</th></tr></thead>
+    <tbody>
+      <tr><td>Documento desatualizado ou revogado</td><td>Metadados de vigência, aviso na resposta e rotina de atualização. A retificação do Edital 258/2026 é um exemplo: o protótipo compara “ONDE SE LÊ” e “LEIA-SE”.</td></tr>
+      <tr><td>PDF digitalizado ou tabela</td><td>OCR e extração de tabelas, com revisão humana. O protótipo atual não tem OCR; documentos escaneados ficam fora ou entram com perda.</td></tr>
+      <tr><td>Alucinação</td><td>Resposta só com trechos recuperados, citação obrigatória, validação de citação e “não encontrei”. O modelo não pode citar um trecho que não recebeu.</td></tr>
+      <tr><td>Permissão</td><td>Indexar por coleção e respeitar o acesso de quem pergunta. Não misturar documento restrito com índice público. SSO e ACL antes do piloto.</td></tr>
+      <tr><td>LGPD</td><td>Não indexar dados pessoais sem base legal; anonimizar logs; definir retenção e finalidade. O corpus do protótipo só tem documentos públicos.</td></tr>
+      <tr><td>Custo e latência</td><td>Recuperar antes de gerar, cachear perguntas frequentes e escolher o modelo por tarefa. A busca local é instantânea; o modelo é a parte lenta.</td></tr>
+      <tr><td>Avaliação</td><td>Conjunto de perguntas com fonte esperada, revisão humana e medida de citação correta. Sem isso, o sistema parece melhor do que é.</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <div class="statement-block"><p>Um bom assistente institucional sabe quando não deve responder e mostra o caminho para a fonte quando responde.</p></div>
+</section>
+
+<section id="proximos">
+  <div class="kicker">8 · Próximos passos</div>
+  <h2>Começar pequeno com uma coleção e medir antes de expandir.</h2>
+  <p>Para avançar com segurança, o passo inicial é começar pequeno: testar uma única coleção com um conjunto fechado de perguntas e medir os resultados antes de expandir. Cabe a você decidir qual coleção começa, quem cuida dela, o que conta como resposta correta e quais canais importam (web, Teams, WhatsApp).</p>
+  <div class="timeline">
+    <div class="card">
+      <h3>30 dias</h3>
+      <ul>
+        <li>Escolher uma secretaria ou coleção.</li>
+        <li>Separar 50 a 100 documentos.</li>
+        <li>Definir o dono da coleção.</li>
+        <li>Escrever 30 perguntas com fonte esperada.</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>60 dias</h3>
+      <ul>
+        <li>Rodar um piloto com 10 a 20 pessoas.</li>
+        <li>Medir tempo de resposta e taxa de “não encontrei”.</li>
+        <li>Medir citação correta e satisfação.</li>
+        <li>Revisar os erros e ajustar o índice.</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>90 dias</h3>
+      <ul>
+        <li>Decidir se vai para produção.</li>
+        <li>Integrar SSO, permissões e atualização.</li>
+        <li>Definir monitoramento e manutenção.</li>
+        <li>Publicar o primeiro conjunto de métricas.</li>
+      </ul>
+    </div>
+  </div>
+  <div class="grid-3" style="margin-top:18px">
+    <div class="card"><h3>O que você decide</h3><p>Qual coleção começa, quem cuida dela, o que conta como resposta correta e quais canais importam: web, Teams ou WhatsApp.</p></div>
+    <div class="card"><h3>O que eu levo</h3><p>O protótipo, o código de ingestão, a busca, o proxy, a página e o roteiro do encontro. O repositório é público e não tem chave.</p></div>
+    <div class="card"><h3>O que medimos</h3><p>Tempo até a resposta, taxa de abstenção, citação correta, perguntas mais frequentes e quanto trabalho manual a equipe deixa de fazer.</p></div>
+  </div>
+</section>
+
+<section id="pronto">
+  <div class="kicker">9 · O que fica pronto</div>
+  <h2>Um protótipo que você pode abrir, testar e continuar.</h2>
+  <p>Ficam prontos a página, o protótipo, o código de ingestão, a busca, o proxy e o roteiro do encontro. O repositório é público e não contém chave de API. Quem quiser testar ao vivo usa a própria chave.</p>
+  <div class="table-scroll">
+  <table class="kit">
+    <thead><tr><th>Arquivo</th><th>O que é</th><th>Abrir</th></tr></thead>
+    <tbody>
+      <tr><td><b>index.html</b></td><td>A página do encontro e a demonstração</td><td><a href="index.html">abrir</a></td></tr>
+      <tr><td><b>dados/documentos.json</b></td><td>Os 8 documentos, com tipo, data e status</td><td><a href="dados/documentos.json">abrir</a></td></tr>
+      <tr><td><b>dados/trechos.json</b></td><td>Os 1.159 trechos com artigo, seção e página</td><td><a href="dados/trechos.json">abrir</a></td></tr>
+      <tr><td><b>dados/avaliacao.json</b></td><td>As 16 perguntas de teste e a fonte esperada</td><td><a href="dados/avaliacao.json">abrir</a></td></tr>
+      <tr><td><b>codigo/ingerir.py</b></td><td>Extrai, limpa e corta os PDFs</td><td><a href="codigo/ingerir.py">abrir</a></td></tr>
+      <tr><td><b>codigo/avaliar.mjs</b></td><td>Roda a avaliação da busca</td><td><a href="codigo/avaliar.mjs">abrir</a></td></tr>
+      <tr><td><b>worker/worker.js</b></td><td>O proxy Cloudflare que resolve o CORS da Ollama</td><td><a href="worker/worker.js">abrir</a></td></tr>
+      <tr><td><b>ROTEIRO-ENCONTRO.md</b></td><td>O roteiro de 40 minutos</td><td><a href="ROTEIRO-ENCONTRO.md">abrir</a></td></tr>
+    </tbody>
+  </table>
+  </div>
+  <div class="cta-row">
+    <a class="cta" href="https://github.com/VictorGit10/denilson-ufg-chatbot" target="_blank" rel="noopener">Ver o repositório</a>
+    <a class="cta secondary" href="https://victorgit10.github.io/denilson-ufg-chatbot/" target="_blank" rel="noopener">Abrir a página publicada</a>
+  </div>
+  <p class="note">Licença: texto, página e figuras em CC BY 4.0; código em MIT. Os documentos pertencem à UFG e às fontes originais; os links oficiais estão em <code>dados/documentos.json</code>.</p>
+</section>
+
+<footer>
+  <div class="footer-line">Protótipo feito para o encontro individual de Denilson Silva · Estágio Docência · LAPIG/UFG · 06/11/2026.</div>
+  <div class="footer-line">Documentos públicos da UFG. Respostas gravadas com deepseek-v4.1-flash (Ollama Cloud) em 05/11/2026; modo ao vivo com a chave do usuário. Nenhuma chave de API no repositório.</div>
+  <div class="footer-line">Texto e página organizados por Victor Amaral. O protótipo é uma prova de conceito, não um sistema de produção.</div>
+</footer>
+
+<div class="modal" id="modal" hidden>
+  <div class="modal-box" role="dialog" aria-modal="true" aria-labelledby="modal-titulo">
+    <div class="modal-head">
+      <b id="modal-titulo">Documento</b>
+      <span id="modal-pagina" class="small"></span>
+      <button class="fechar" type="button" id="modal-fechar" aria-label="Fechar">×</button>
+    </div>
+    <iframe id="modal-iframe" title="Documento original"></iframe>
+    <div class="modal-foot">
+      <span>Role até a página citada. Se o visualizador não abrir, use o link.</span>
+      <a id="modal-link" href="#" target="_blank" rel="noopener">abrir em nova aba</a>
+      <a id="modal-oficial" href="#" target="_blank" rel="noopener">fonte oficial</a>
+    </div>
+  </div>
+</div>
+
+<noscript><p style="max-width:1100px;margin:20px auto;padding:0 28px">A demonstração precisa de JavaScript. O texto da página continua legível sem ele.</p></noscript>
+</body>
+</html>
