@@ -360,7 +360,7 @@ function extrairJSON(texto) {
 }
 
 async function perguntarVivo(pergunta) {
-  const chave = $("#chave").value.trim();
+  const chave = $("#chave").value.trim().replace(/^Bearer\s+/i, "");
   const modelo = $("#modelo").value;
   const status = $("#status-live");
   const botao = $("#btn-perguntar");
